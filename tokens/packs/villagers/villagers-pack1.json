@@ -1,0 +1,76 @@
+{
+  "name": "input.json",
+  "type": "token",
+  "list": [
+    {
+      "name": "villager1",
+      "url": "https://i.pinimg.com/originals/ed/61/61/ed61619c24421f29c9c6886d17fea2a2.jpg",
+      "offsetX": -22,
+      "offsetY": 280,
+      "scale": 1.0
+    },
+    {
+      "name": "villager2",
+      "url": "https://i.pinimg.com/236x/69/db/77/69db7789279cd3b05a22d71b2bd3e7f9--fantasy-characters-female-characters.jpg",
+      "offsetX": -48,
+      "offsetY": 194,
+      "scale": 1.6815906706147357
+    },
+    {
+      "name": "villager3",
+      "url": "https://i.pinimg.com/originals/42/1f/b9/421fb9e7909e1319cc929fb9934558bd.jpg",
+      "offsetX": -93,
+      "offsetY": 251,
+      "scale": 0.7262651528046193
+    },
+    {
+      "name": "villager4",
+      "url": "https://thumbs.dreamstime.com/b/concept-art-fantasy-illustration-lumberjack-villager-countryman-village-man-ax-concept-art-digital-painting-135020416.jpg",
+      "offsetX": -23,
+      "offsetY": 280,
+      "scale": 1.0
+    },
+    {
+      "name": "villager5",
+      "url": "https://i.pinimg.com/236x/9c/dd/39/9cdd39e6ea8c41ce846082b603fcadf4--warhammer-fantasy-fantasy-rpg.jpg",
+      "offsetX": -7,
+      "offsetY": 191,
+      "scale": 1.4915265612573432
+    },
+    {
+      "name": "villager6",
+      "url": "https://i.pinimg.com/originals/1d/54/3e/1d543e5429b6fe1e33cb81ff61d91ca7.jpg",
+      "offsetX": -13,
+      "offsetY": 314,
+      "scale": 0.8188125757004989
+    },
+    {
+      "name": "villager7",
+      "url": "https://i.pinimg.com/originals/cc/07/73/cc0773b4a0a00d72eeddfcf56dd2878b.jpg",
+      "offsetX": 37,
+      "offsetY": 239,
+      "scale": 1.0
+    },
+    {
+      "name": "villager8",
+      "url": "https://i.pinimg.com/474x/a6/b2/e2/a6b2e2af26f0fcd9375f446b82d070b2.jpg",
+      "offsetX": -68,
+      "offsetY": 309,
+      "scale": 0.7867221991832365
+    },
+    {
+      "name": "villager9",
+      "url": "https://i.pinimg.com/originals/9d/e3/b0/9de3b088c9e5016d59dc9ba49c5c6e94.jpg",
+      "offsetX": -24,
+      "offsetY": 324,
+      "scale": 0.5274610721783172
+    },
+    {
+      "name": "villager10",
+      "url": "https://i.pinimg.com/736x/fe/58/8d/fe588dc99c69f43ca13622485d1d80d7.jpg",
+      "offsetX": -61,
+      "offsetY": 316,
+      "scale": 0.7867221991832365
+    }
+  ]
+}
