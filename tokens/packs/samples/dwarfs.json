@@ -5,29 +5,29 @@
     {
       "name": "dwarf1",
       "url": "https://static.wikia.nocookie.net/brenielverse-rpg/images/9/9b/Dwarf_Portrait_Male.jpg/revision/latest/top-crop/width/360/height/450?cb\u003d20170324140209",
-      "offsetX": -17,
-      "offsetY": -8,
+      "offsetX": -10,
+      "offsetY": -1,
       "scale": 0.6441780302739868
     },
     {
       "name": "dwarf2",
       "url": "https://i.pinimg.com/originals/d9/9b/12/d99b12efe7d6e5d104cf23a1ae0fc655.png",
-      "offsetX": -18,
-      "offsetY": 14,
+      "offsetX": 3,
+      "offsetY": 19,
       "scale": 0.3680633042888175
     },
     {
       "name": "dwarf3",
       "url": "https://i.pinimg.com/originals/90/29/d7/9029d78efa168162f6a54ca8432603d8.jpg",
-      "offsetX": -19,
-      "offsetY": 33,
+      "offsetX": -3,
+      "offsetY": 38,
       "scale": 0.2673115519310912
     },
     {
       "name": "dwarf4",
       "url": "https://static.wikia.nocookie.net/colms-campaign-world/images/e/e0/Wulfric.jpg/revision/latest?cb\u003d20150621154352",
-      "offsetX": -16,
-      "offsetY": -4,
+      "offsetX": -5,
+      "offsetY": 0,
       "scale": 0.5713689182045995
     },
     {
