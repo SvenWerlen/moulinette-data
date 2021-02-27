@@ -8,13 +8,13 @@ Data packs and frames for [Moulinette Tokenizer](https://github.com/SvenWerlen/m
 | :exclamation: *Previews below contain portions of images from the internet. These images are protected by the copyright of their owners.* |
 | :----------------------------------------- |
 
-| Name | Preview | Type |
-| --- | --- | --- |
-| [Dwarfs](packs/samples/dwarfs.json) | <img src="packs/samples/dwarfs.png" width="400"> | Round |
-| [Villagers Pack1 Cards](packs/people/villagers-pack1-cards.json) | <img src="packs/people/villagers-pack1-cards.png" width="400"> | Card |
-| [Fighters](packs/people/fighters.json) | <img src="packs/people/fighters.png" width="400"> | Round |
-| [Villagers Pack1](packs/people/villagers-pack1.json) | <img src="packs/people/villagers-pack1.png" width="400"> | Round |
-| [Rise Runelords](packs/pathfinder/rise-runelords.json) | <img src="packs/pathfinder/rise-runelords.png" width="400"> | Round |
+| Name | Preview | Type | # tokens |
+| --- | --- | --- | ---: |
+| [Dwarfs](packs/samples/dwarfs.json) | <img src="packs/samples/dwarfs.png" width="400"> | Round | 5 |
+| [Villagers Pack1 Cards](packs/people/villagers-pack1-cards.json) | <img src="packs/people/villagers-pack1-cards.png" width="400"> | Card | 10 |
+| [Fighters](packs/people/fighters.json) | <img src="packs/people/fighters.png" width="400"> | Round | 8 |
+| [Villagers Pack1](packs/people/villagers-pack1.json) | <img src="packs/people/villagers-pack1.png" width="400"> | Round | 10 |
+| [Rise Runelords](packs/pathfinder/rise-runelords.json) | <img src="packs/pathfinder/rise-runelords.png" width="400"> | Round | 36 |
 
 
 ## Frames

@@ -25,8 +25,8 @@ Data packs and frames for [Moulinette Tokenizer](https://github.com/SvenWerlen/m
 | :exclamation: *Previews below contain portions of images from the internet. These images are protected by the copyright of their owners.* |
 | :----------------------------------------- |
 
-| Name | Preview | Type |
-| --- | --- | --- |
+| Name | Preview | Type | # tokens |
+| --- | --- | --- | ---: |
 {{PACKS}}
 
 ## Frames
@@ -54,7 +54,7 @@ for root, dirs, files in os.walk(PATH + "/packs"):
         # ./tokens/packs/samples/dwarfs.json => packs/samples/dwarfs.png
         urlPreview = path.split("/tokens/")[1].replace(".json", ".png")
         
-        packs += "| [%s](%s) | <img src=\"%s\" width=\"400\"> | %s |\n" % (name, url, urlPreview, frame)
+        packs += "| [%s](%s) | <img src=\"%s\" width=\"400\"> | %s | %d |\n" % (name, url, urlPreview, frame, len(data["list"]))
         
 
 MARKDOWN = MARKDOWN.replace("{{PACKS}}", packs)
