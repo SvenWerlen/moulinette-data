@@ -1,6 +1,7 @@
 {
   "name": "fighters.json",
   "type": "token",
+  "frame": "round",
   "list": [
     {
       "name": "fighter1",

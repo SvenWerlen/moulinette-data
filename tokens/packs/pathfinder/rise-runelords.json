@@ -1,6 +1,7 @@
 {
   "name": "rise-runelords.json",
   "type": "token",
+  "frame": "round",
   "list": [
     {
       "name": "1.1-goblin",

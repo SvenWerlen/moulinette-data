@@ -1,6 +1,7 @@
 {
   "name": "dwarfs.json",
   "type": "token",
+  "frame": "round",
   "list": [
     {
       "name": "dwarf1",
