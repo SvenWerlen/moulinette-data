@@ -1,0 +1,62 @@
+{
+  "name": "fighters.json",
+  "type": "token",
+  "list": [
+    {
+      "name": "fighter1",
+      "url": "https://i.pinimg.com/736x/39/54/75/3954750936e1002dd90e04bc43e7bd55--fantasy-rpg-art-pics.jpg?b\u003dt",
+      "offsetX": -7,
+      "offsetY": 271,
+      "scale": 0.5274610721783172
+    },
+    {
+      "name": "fighter2",
+      "url": "http://2.bp.blogspot.com/-_hT3a3kNmko/Uq3Rw4U2uJI/AAAAAAAAFh0/iGlvMyRgHIk/s1600/1365927884721.jpg",
+      "offsetX": -32,
+      "offsetY": 246,
+      "scale": 0.5489761945709151
+    },
+    {
+      "name": "fighter3",
+      "url": "https://i.pinimg.com/736x/63/d0/8f/63d08f7d335897c42e5c82ddea8ddca7--fantasy-rpg-art-pics.jpg",
+      "offsetX": 30,
+      "offsetY": 348,
+      "scale": 0.8869736180875034
+    },
+    {
+      "name": "fighter4",
+      "url": "https://i.pinimg.com/originals/00/fe/bf/00febf09861a8c91528147b541973f28.jpg",
+      "offsetX": 10,
+      "offsetY": 324,
+      "scale": 0.5946750404094668
+    },
+    {
+      "name": "fighter5",
+      "url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4aad3752-9743-4250-a777-22c54df5a3be/d86xtdw-af8f7dc7-6746-42e5-adef-81ed1ace8f6d.jpg?token\u003deyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sIm9iaiI6W1t7InBhdGgiOiIvZi80YWFkMzc1Mi05NzQzLTQyNTAtYTc3Ny0yMmM1NGRmNWEzYmUvZDg2eHRkdy1hZjhmN2RjNy02NzQ2LTQyZTUtYWRlZi04MWVkMWFjZThmNmQuanBnIn1dXX0.0A-ICbULWN6bXDD8d8Y6YcHH1iKWZsWNaNajwk_VPR0",
+      "offsetX": 68,
+      "offsetY": 273,
+      "scale": 0.3136679344120614
+    },
+    {
+      "name": "fighter6",
+      "url": "https://i.pinimg.com/736x/31/ea/08/31ea08491663a9c922db8b7a5fa3d392.jpg?b\u003dt",
+      "offsetX": 17,
+      "offsetY": 303,
+      "scale": 0.8869736180875034
+    },
+    {
+      "name": "fighter7",
+      "url": "https://i.pinimg.com/736x/7e/07/1d/7e071d6daa859962784f3c2e56bf521f--fantasy-dwarf-epic-beard.jpg",
+      "offsetX": 95,
+      "offsetY": 83,
+      "scale": 0.6704540341252853
+    },
+    {
+      "name": "fighter8",
+      "url": "https://i.pinimg.com/736x/2a/cd/e7/2acde71b124c23a8194bf7ea0cb3a064.jpg",
+      "offsetX": 15,
+      "offsetY": 272,
+      "scale": 0.8188125757004989
+    }
+  ]
+}

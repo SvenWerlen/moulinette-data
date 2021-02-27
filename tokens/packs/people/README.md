@@ -8,3 +8,4 @@ Data pack for [Moulinette Tokenizer](https://github.com/SvenWerlen/moulinette/tr
 | Name | Preview | URL |
 | --- | --- | --- |
 | Villagers 1 | ![](villagers-pack1.png) | `https://raw.githubusercontent.com/SvenWerlen/moulinette-data/main/tokens/packs/villagers/villagers-pack1.json` |
+| Fighters | ![](fighters.png) | `https://raw.githubusercontent.com/SvenWerlen/moulinette-data/main/tokens/packs/villagers/fighters.json` |
