@@ -40,7 +40,7 @@ Data packs and frames for [Moulinette Tokenizer](https://github.com/SvenWerlen/m
 ## Templates
 ##
 for root, dirs, files in os.walk(PATH + "/packs"):
-  for file in files: 
+  for file in sorted(files): 
     if file.endswith('.json'): 
       path = os.path.join(root, file)
       with open(path) as f:
@@ -63,7 +63,7 @@ MARKDOWN = MARKDOWN.replace("{{PACKS}}", packs)
 ## Frames
 ##
 for root, dirs, files in os.walk(PATH + "/frames"):
-  for file in files: 
+  for file in sorted(files): 
     if file.endswith('.png'): 
       path = os.path.join(root, file)
       # ./tokens/frames/card-european.png => European
