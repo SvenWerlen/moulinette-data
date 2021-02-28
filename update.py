@@ -12,7 +12,15 @@ frames = ""
 SOURCES = { 
   "round-grey.png": "[VTTAssets](https://github.com/VTTAssets/vtta-tokenizer/tree/master/img)",
   "round-brown.png": "[VTTAssets](https://github.com/VTTAssets/vtta-tokenizer/tree/master/img)",
-  "card-european.png": "[RPTools](https://github.com/RPTools/TokenTool/tree/main/src/main/resources/net/rptools/tokentool/overlays/v2_1/Cards)",  
+  "card-european.png": "[RPTools](https://github.com/RPTools/TokenTool/tree/main/src/main/resources/net/rptools/tokentool/overlays/v2_1/Cards)",
+  "card-proxy.png": "[RPTools](https://github.com/RPTools/TokenTool/tree/main/src/main/resources/net/rptools/tokentool/overlays/v2_1/Cards)",  
+  "round-beige.png": "[RPTools](https://github.com/RPTools/TokenTool/tree/main/src/main/resources/net/rptools/tokentool/overlays/v2/Round/Smooth)",  
+  "round-circuitboard.png": "[RPTools](https://github.com/RPTools/TokenTool/tree/main/src/main/resources/net/rptools/tokentool/overlays/v2/Round/Smooth)",  
+  "round-cobblestone.png": "[RPTools](https://github.com/RPTools/TokenTool/tree/main/src/main/resources/net/rptools/tokentool/overlays/v2/Round/Smooth)",  
+  "round-gear.png": "[RPTools](https://github.com/RPTools/TokenTool/tree/main/src/main/resources/net/rptools/tokentool/overlays/v2/Round/Gears)",  
+  "round-greenproto.png": "[RPTools](https://github.com/RPTools/TokenTool/tree/main/src/main/resources/net/rptools/tokentool/overlays/v2/Round/Smooth)",  
+  "round-lava.png": "[RPTools](https://github.com/RPTools/TokenTool/tree/main/src/main/resources/net/rptools/tokentool/overlays/v2/Round/Smooth)",
+  "round-leaves.png": "[RPTools](https://github.com/RPTools/TokenTool/tree/main/src/main/resources/net/rptools/tokentool/overlays/v2/Round/Decorated)",  
 }
 
 MARKDOWN = """
