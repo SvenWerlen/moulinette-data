@@ -1,0 +1,47 @@
+{
+  "name": "Spellcasting chants from Baldur's Gate (#1)",
+  "type": "playlist",
+  "source": "https://neverwintervault.org/project/nwn2/audio/sound/spellcasting-chants-baldurs-gate",
+  "list": [
+    {
+      "name": "Conjuring Female",
+      "url": "https://neverwintervault.org/sites/all/modules/pubdlcnt/pubdlcnt.php?fid=27231|Override/vs_chant_conj_hf.wav"
+    },
+    {
+      "name": "Conjuring Male",
+      "url": "https://neverwintervault.org/sites/all/modules/pubdlcnt/pubdlcnt.php?fid=27231|Override/vs_chant_conj_hm.wav"
+    },
+    {
+      "name": "Enchantment Female",
+      "url": "https://neverwintervault.org/sites/all/modules/pubdlcnt/pubdlcnt.php?fid=27231|Override/vs_chant_ench_hf.wav"
+    },
+    {
+      "name": "Enchantment Male",
+      "url": "https://neverwintervault.org/sites/all/modules/pubdlcnt/pubdlcnt.php?fid=27231|Override/vs_chant_ench_hm.wav"
+    },
+    {
+      "name": "Evocation Female",
+      "url": "https://neverwintervault.org/sites/all/modules/pubdlcnt/pubdlcnt.php?fid=27231|Override/vs_chant_evoc_hf.wav"
+    },
+    {
+      "name": "Evocation Male",
+      "url": "https://neverwintervault.org/sites/all/modules/pubdlcnt/pubdlcnt.php?fid=27231|Override/vs_chant_evoc_hm.wav"
+    },
+    {
+      "name": "Illusion Female",
+      "url": "https://neverwintervault.org/sites/all/modules/pubdlcnt/pubdlcnt.php?fid=27231|Override/vs_chant_illu_hf.wav"
+    },
+    {
+      "name": "Illusion Male",
+      "url": "https://neverwintervault.org/sites/all/modules/pubdlcnt/pubdlcnt.php?fid=27231|Override/vs_chant_illu_hm.wav"
+    },
+    {
+      "name": "Necromancy Female",
+      "url": "https://neverwintervault.org/sites/all/modules/pubdlcnt/pubdlcnt.php?fid=27231|Override/vs_chant_necr_hf.wav"
+    },
+    {
+      "name": "Necromancy Male",
+      "url": "https://neverwintervault.org/sites/all/modules/pubdlcnt/pubdlcnt.php?fid=27231|Override/vs_chant_necr_hm.wav"
+    }
+  ]
+}

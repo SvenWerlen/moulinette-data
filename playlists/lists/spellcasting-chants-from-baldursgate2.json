@@ -1,0 +1,103 @@
+{
+  "name": "Spellcasting chants from Baldur's Gate (#2)",
+  "type": "playlist",
+  "source": "https://neverwintervault.org/project/nwn2/audio/sound/spellcasting-chants-baldurs-gate-motb-version",
+  "list": [
+      {
+        "name": "Female #1",
+        "url": "https://neverwintervault.org/sites/all/modules/pubdlcnt/pubdlcnt.php?fid=29476|incant/FF_A0A.wav"
+      },
+      {
+        "name": "Female #2",
+        "url": "https://neverwintervault.org/sites/all/modules/pubdlcnt/pubdlcnt.php?fid=29476|incant/FF_A0C.wav"
+      },
+      {
+        "name": "Female #3",
+        "url": "https://neverwintervault.org/sites/all/modules/pubdlcnt/pubdlcnt.php?fid=29476|incant/FF_A0D.wav"
+      },
+      {
+        "name": "Female #4",
+        "url": "https://neverwintervault.org/sites/all/modules/pubdlcnt/pubdlcnt.php?fid=29476|incant/FF_A0E.wav"
+      },
+      {
+        "name": "Female #5",
+        "url": "https://neverwintervault.org/sites/all/modules/pubdlcnt/pubdlcnt.php?fid=29476|incant/FF_A0I.wav"
+      },
+      {
+        "name": "Female #6",
+        "url": "https://neverwintervault.org/sites/all/modules/pubdlcnt/pubdlcnt.php?fid=29476|incant/FF_A0N.wav"
+      },
+      {
+        "name": "Female #7",
+        "url": "https://neverwintervault.org/sites/all/modules/pubdlcnt/pubdlcnt.php?fid=29476|incant/FF_A0T.wav"
+      },
+      {
+        "name": "Female #8",
+        "url": "https://neverwintervault.org/sites/all/modules/pubdlcnt/pubdlcnt.php?fid=29476|incant/FF_A0V.wav"
+      },
+      {
+        "name": "Female alt #1",
+        "url": "https://neverwintervault.org/sites/all/modules/pubdlcnt/pubdlcnt.php?fid=29476|incant/FF_D0A.wav"
+      },
+      {
+        "name": "Female alt #2",
+        "url": "https://neverwintervault.org/sites/all/modules/pubdlcnt/pubdlcnt.php?fid=29476|incant/FF_D0C.wav"
+      },
+      {
+        "name": "Female alt #3",
+        "url": "https://neverwintervault.org/sites/all/modules/pubdlcnt/pubdlcnt.php?fid=29476|incant/FF_D0D.wav"
+      },
+      {
+        "name": "Female alt #4",
+        "url": "https://neverwintervault.org/sites/all/modules/pubdlcnt/pubdlcnt.php?fid=29476|incant/FF_D0E.wav"
+      },
+      {
+        "name": "Female alt #5",
+        "url": "https://neverwintervault.org/sites/all/modules/pubdlcnt/pubdlcnt.php?fid=29476|incant/FF_D0I.wav"
+      },
+      {
+        "name": "Female alt #6",
+        "url": "https://neverwintervault.org/sites/all/modules/pubdlcnt/pubdlcnt.php?fid=29476|incant/FF_D0N.wav"
+      },
+      {
+        "name": "Female alt #7",
+        "url": "https://neverwintervault.org/sites/all/modules/pubdlcnt/pubdlcnt.php?fid=29476|incant/FF_D0T.wav"
+      },
+      {
+        "name": "Female alt #8",
+        "url": "https://neverwintervault.org/sites/all/modules/pubdlcnt/pubdlcnt.php?fid=29476|incant/FF_D0V.wav"
+      },
+      {
+        "name": "Male #1",
+        "url": "https://neverwintervault.org/sites/all/modules/pubdlcnt/pubdlcnt.php?fid=29476|incant/MH_A0A.wav"
+      },
+      {
+        "name": "Male #2",
+        "url": "https://neverwintervault.org/sites/all/modules/pubdlcnt/pubdlcnt.php?fid=29476|incant/MH_A0C.wav"
+      },
+      {
+        "name": "Male #3",
+        "url": "https://neverwintervault.org/sites/all/modules/pubdlcnt/pubdlcnt.php?fid=29476|incant/MH_A0D.wav"
+      },
+      {
+        "name": "Male #4",
+        "url": "https://neverwintervault.org/sites/all/modules/pubdlcnt/pubdlcnt.php?fid=29476|incant/MH_A0E.wav"
+      },
+      {
+        "name": "Male #5",
+        "url": "https://neverwintervault.org/sites/all/modules/pubdlcnt/pubdlcnt.php?fid=29476|incant/MH_A0I.wav"
+      },
+      {
+        "name": "Male #6",
+        "url": "https://neverwintervault.org/sites/all/modules/pubdlcnt/pubdlcnt.php?fid=29476|incant/MH_A0N.wav"
+      },
+      {
+        "name": "Male #7",
+        "url": "https://neverwintervault.org/sites/all/modules/pubdlcnt/pubdlcnt.php?fid=29476|incant/MH_A0T.wav"
+      },
+      {
+        "name": "Male #8",
+        "url": "https://neverwintervault.org/sites/all/modules/pubdlcnt/pubdlcnt.php?fid=29476|incant/MH_A0V.wav"
+      }
+  ]
+}
