@@ -1,0 +1,12 @@
+{
+  "name": "Icons from game-icons.net",
+  "type": "images",
+  "folder": "gameicons",
+  "source": "Game-icons.net|https://game-icons.net/",
+  "list": [
+    {
+      "name": "White on black",
+      "url": "https://game-icons.net/archives/svg/zip/ffffff/000000/game-icons.net.svg.zip|*"
+    }
+  ]
+}
