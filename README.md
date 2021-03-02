@@ -1,9 +1,11 @@
 # Moulinette Data
 
 This repository contains all the files (data packs, frames, etc.) that can be used with
-[Moulinette Tokenizer](https://github.com/SvenWerlen/moulinette/tree/master/tokenizer).
+[Moulinette Tokenizer](https://github.com/SvenWerlen/moulinette/tree/master/tokenizer) and
+[Moulinette Bundler](https://github.com/SvenWerlen/moulinette/tree/master/bundler).
 
 * [Tokens](tokens/README.md) : data packs and frames for generating tokens
+* [Playlists](playlists/README.md) : audio playlists for your games
 
 ## Contribute
 

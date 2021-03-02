@@ -4,10 +4,11 @@ import os
 import sys
 import json
 
-PATH = os.path.dirname(__file__) + "/tokens"
+PATH = os.path.dirname(__file__)
 
 packs = ""
 frames = ""
+playlists = ""
 
 SOURCES = { 
   "round-grey.png": "[VTTAssets](https://github.com/VTTAssets/vtta-tokenizer/tree/master/img)",
@@ -44,10 +45,23 @@ Data packs and frames for [Moulinette Tokenizer](https://github.com/SvenWerlen/m
 {{FRAMES}}
 """
 
+MARKDOWN_BUNDLE = """
+# Moulinette Bundler for FoundryVTT
+
+Resources for [Moulinette Bundler for FoundryVTT](https://github.com/SvenWerlen/moulinette/tree/master/bundler/README.md)
+
+## List
+
+| Name | Source / copyrights | # element |
+| --- | --- | ---: |
+{{LIST}}
+"""
+
+
 ##
 ## Templates
 ##
-for root, dirs, files in os.walk(PATH + "/packs"):
+for root, dirs, files in os.walk(PATH + "/tokens/packs"):
   for file in sorted(files): 
     if file.endswith('.json'): 
       path = os.path.join(root, file)
@@ -70,7 +84,7 @@ MARKDOWN = MARKDOWN.replace("{{PACKS}}", packs)
 ##
 ## Frames
 ##
-for root, dirs, files in os.walk(PATH + "/frames"):
+for root, dirs, files in os.walk(PATH + "/tokens/frames"):
   for file in sorted(files): 
     if file.endswith('.png'): 
       path = os.path.join(root, file)
@@ -85,6 +99,32 @@ for root, dirs, files in os.walk(PATH + "/frames"):
         
 MARKDOWN = MARKDOWN.replace("{{FRAMES}}", frames)
 
-with open(PATH + "/README.md", "w") as f:
+with open(PATH + "/tokens/README.md", "w") as f:
   f.write(MARKDOWN)
+  f.close()
+
+
+##
+## Playlists
+##
+for root, dirs, files in os.walk(PATH + "/playlists"):
+  for file in sorted(files): 
+    if file.endswith('.json'): 
+      path = os.path.join(root, file)
+      with open(path) as f:
+        data = json.loads(f.read())
+        name = data["name"]
+        # ./playlists/lists/spellcasting-chants-from-baldursgate1.json => lists/spellcasting-chants-from-baldursgate1.json
+        url = path.split("/playlists/")[1]
+        # "NeverWinterVault|https://neverwintervault.org/project/nwn2/audio/sound/spellcasting-chants-baldurs-gate-motb-version"
+        source = data["source"].split('|')[0]
+        sourceURL = data["source"].split('|')[1]
+        
+        playlists += "| [%s](%s) | [%s](%s) | %d |\n" % (name, url, source, sourceURL, len(data["list"]))
+        
+
+MARKDOWN_BUNDLE = MARKDOWN_BUNDLE.replace("{{LIST}}", playlists)
+
+with open(PATH + "/playlists/README.md", "w") as f:
+  f.write(MARKDOWN_BUNDLE)
   f.close()
