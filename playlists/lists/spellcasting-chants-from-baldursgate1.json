@@ -1,5 +1,7 @@
 {
+  "id": "spellcasting-baldursgate1",
   "name": "Spellcasting chants from Baldur's Gate (#1)",
+  "description": "Set #1 of spellcasting chants from famous Baldur's Gate in WAV format (3.5 MB)",
   "type": "playlist",
   "source": "NeverWinterVault|https://neverwintervault.org/project/nwn2/audio/sound/spellcasting-chants-baldurs-gate",
   "list": [

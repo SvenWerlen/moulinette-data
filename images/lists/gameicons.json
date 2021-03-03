@@ -1,7 +1,8 @@
 {
+  "id": "gameicons",
   "name": "Icons from game-icons.net",
+  "description": "All icons from game-icons in SVG format (50 MB+), white on black",
   "type": "images",
-  "folder": "gameicons",
   "source": "Game-icons.net|https://game-icons.net/",
   "list": [
     {

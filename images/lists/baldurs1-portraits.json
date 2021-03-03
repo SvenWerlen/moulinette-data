@@ -1,0 +1,137 @@
+{
+  "id": "baldurs-portraits",
+  "name": "Baldur's gate 1 portraits",
+  "description": "Portraits from Baldur's gate 1 in WEBP format (4.4 MB).",
+  "type": "images",
+  "source": "Baldur's Gate Wiki|https://baldursgate.fandom.com/wiki/Portraits",
+  "list": [
+    {
+      "name": "Osprey_WOMAN2_Portrait_BG1.webp",
+      "url": "https://static.wikia.nocookie.net/baldursgategame/images/9/92/Osprey_WOMAN2_Portrait_BG1.png/revision/latest/scale-to-width-down/210?cb=20180928085847"
+    },
+    {
+      "name": "Mordaine_WOMAN1_Portrait_BG1.webp",
+      "url": "https://static.wikia.nocookie.net/baldursgategame/images/e/e9/Mordaine_WOMAN1_Portrait_BG1.png/revision/latest/scale-to-width-down/210?cb=20180928072622"
+    },
+    {
+      "name": "Arkanis_GENDWRF_Portrait_BG1.webp",
+      "url": "https://static.wikia.nocookie.net/baldursgategame/images/e/e0/Arkanis_GENDWRF_Portrait_BG1.png/revision/latest/scale-to-width-down/210?cb=20180916200244"
+    },
+    {
+      "name": "Deder_GENMELF_Portrait_BG1.webp",
+      "url": "https://static.wikia.nocookie.net/baldursgategame/images/8/83/Deder_GENMELF_Portrait_BG1.png/revision/latest/scale-to-width-down/210?cb=20180916204232"
+    },
+    {
+      "name": "Canderous_MAN2_Portrait_BG1.webp",
+      "url": "https://static.wikia.nocookie.net/baldursgategame/images/b/bf/Canderous_MAN2_Portrait_BG1.png/revision/latest/scale-to-width-down/210?cb=20180924101607"
+    },
+    {
+      "name": "Human_male_MAN1_Portrait_BG1.webp",
+      "url": "https://static.wikia.nocookie.net/baldursgategame/images/a/a2/Human_%28male%29_MAN1_Portrait_BG1.png/revision/latest/scale-to-width-down/210?cb=20180917211850"
+    },
+    {
+      "name": "Halfling_male_GENMHLF_Portrait_BG1.webp",
+      "url": "https://static.wikia.nocookie.net/baldursgategame/images/c/ce/Halfling_%28male%29_GENMHLF_Portrait_BG1.png/revision/latest/scale-to-width-down/210?cb=20170123092027"
+    },
+    {
+      "name": "Alora_ALORA_Portrait_BG1.webp",
+      "url": "https://static.wikia.nocookie.net/baldursgategame/images/4/4b/Alora_ALORA_Portrait_BG1.png/revision/latest/scale-to-width-down/210?cb=20180914194134"
+    },
+    {
+      "name": "Branwen_BRANWE_Portrait_BG1.webp",
+      "url": "https://static.wikia.nocookie.net/baldursgategame/images/b/b4/Branwen_BRANWE_Portrait_BG1.png/revision/latest/scale-to-width-down/210?cb=20180915132032"
+    },
+    {
+      "name": "Dynaheir_DYNAHEI_Portrait_BG1.webp",
+      "url": "https://static.wikia.nocookie.net/baldursgategame/images/1/18/Dynaheir_DYNAHEI_Portrait_BG1.png/revision/latest/scale-to-width-down/210?cb=20180916153341"
+    },
+    {
+      "name": "Faldorn_FALDORN_Portrait_BG1.webp",
+      "url": "https://static.wikia.nocookie.net/baldursgategame/images/8/8b/Faldorn_FALDORN_Portrait_BG1.png/revision/latest/scale-to-width-down/210?cb=20180916174712"
+    },
+    {
+      "name": "Imoen_IMOEN_Portrait_BG1.webp",
+      "url": "https://static.wikia.nocookie.net/baldursgategame/images/6/64/Imoen_IMOEN_Portrait_BG1.png/revision/latest/scale-to-width-down/210?cb=20180917185158"
+    },
+    {
+      "name": "Jaheira_JAHEIRA_Portrait_BG1.webp",
+      "url": "https://static.wikia.nocookie.net/baldursgategame/images/7/7e/Jaheira_JAHEIRA_Portrait_BG1.png/revision/latest/scale-to-width-down/210?cb=20180917191544"
+    },
+    {
+      "name": "Safana_SAFANA_Portrait_BG1.webp",
+      "url": "https://static.wikia.nocookie.net/baldursgategame/images/0/04/Safana_SAFANA_Portrait_BG1.png/revision/latest/scale-to-width-down/210?cb=20180926212344"
+    },
+    {
+      "name": "Shar-Teel_Dosan_SHARTEL_Portrait_BG1.webp",
+      "url": "https://static.wikia.nocookie.net/baldursgategame/images/a/a5/Shar-Teel_Dosan_SHARTEL_Portrait_BG1.png/revision/latest/scale-to-width-down/210?cb=20180927124610"
+    },
+    {
+      "name": "Skie_Silvershield_SKIE_Portrait_BG1.webp",
+      "url": "https://static.wikia.nocookie.net/baldursgategame/images/6/62/Skie_Silvershield_SKIE_Portrait_BG1.png/revision/latest/scale-to-width-down/210?cb=20180927134116"
+    },
+    {
+      "name": "Viconia_DeVir_VICONIA_Portrait_BG1.webp",
+      "url": "https://static.wikia.nocookie.net/baldursgategame/images/d/d5/Viconia_DeVir_VICONIA_Portrait_BG1.png/revision/latest/scale-to-width-down/210?cb=20180927202152"
+    },
+    {
+      "name": "Ajantis_Ilvastarr_AJANTIS_Portrait_BG1.webp",
+      "url": "https://static.wikia.nocookie.net/baldursgategame/images/7/7c/Ajantis_Ilvastarr_AJANTIS_Portrait_BG1.png/revision/latest/scale-to-width-down/210?cb=20180914175023"
+    },
+    {
+      "name": "Coran_CORAN_Portrait_BG1.webp",
+      "url": "https://static.wikia.nocookie.net/baldursgategame/images/6/62/Coran_CORAN_Portrait_BG1.png/revision/latest/scale-to-width-down/210?cb=20180915141952"
+    },
+    {
+      "name": "Edwin_Odesseiron_EDWIN_Portrait_BG1.webp",
+      "url": "https://static.wikia.nocookie.net/baldursgategame/images/e/e1/Edwin_Odesseiron_EDWIN_Portrait_BG1.png/revision/latest/scale-to-width-down/210?cb=20180916160930"
+    },
+    {
+      "name": "Eldoth_Kron_ELDOTH_Portrait_BG1.webp",
+      "url": "https://static.wikia.nocookie.net/baldursgategame/images/4/4f/Eldoth_Kron_ELDOTH_Portrait_BG1.png/revision/latest/scale-to-width-down/210?cb=20180916163006"
+    },
+    {
+      "name": "Garrick_GARRICK_Portrait_BG1.webp",
+      "url": "https://static.wikia.nocookie.net/baldursgategame/images/9/96/Garrick_GARRICK_Portrait_BG1.png/revision/latest/scale-to-width-down/210?cb=20180916193400"
+    },
+    {
+      "name": "Kagain_KAGAIN_Portrait_BG1.webp",
+      "url": "https://static.wikia.nocookie.net/baldursgategame/images/4/4d/Kagain_KAGAIN_Portrait_BG1.png/revision/latest/scale-to-width-down/210?cb=20180917194200"
+    },
+    {
+      "name": "Khalid_KHALID_Portrait_BG1.webp",
+      "url": "https://static.wikia.nocookie.net/baldursgategame/images/9/90/Khalid_KHALID_Portrait_BG1.png/revision/latest/scale-to-width-down/210?cb=20180917201843"
+    },
+    {
+      "name": "Kivan_KIVAN_Portrait_BG1.webp",
+      "url": "https://static.wikia.nocookie.net/baldursgategame/images/4/4c/Kivan_KIVAN_Portrait_BG1.png/revision/latest/scale-to-width-down/210?cb=20180917204147"
+    },
+    {
+      "name": "Minsc_MINSC_Portrait_BG1.webp",
+      "url": "https://static.wikia.nocookie.net/baldursgategame/images/9/90/Minsc_MINSC_Portrait_BG1.png/revision/latest/scale-to-width-down/210?cb=20180924195604"
+    },
+    {
+      "name": "Montaron_MONTAR_Portrait_BG1.webp",
+      "url": "https://static.wikia.nocookie.net/baldursgategame/images/7/75/Montaron_MONTAR_Portrait_BG1.png/revision/latest/scale-to-width-down/210?cb=20180924210859"
+    },
+    {
+      "name": "Quayle_QUAYLE_Portrait_BG1.webp",
+      "url": "https://static.wikia.nocookie.net/baldursgategame/images/0/04/Quayle_QUAYLE_Portrait_BG1.png/revision/latest/scale-to-width-down/210?cb=20180926200219"
+    },
+    {
+      "name": "Tiax_TIAX_Portrait_BG1.webp",
+      "url": "https://static.wikia.nocookie.net/baldursgategame/images/e/e4/Tiax_TIAX_Portrait_BG1.png/revision/latest/scale-to-width-down/210?cb=20180927190851"
+    },
+    {
+      "name": "Xan_XAN_Portrait_BG1.webp",
+      "url": "https://static.wikia.nocookie.net/baldursgategame/images/b/b6/Xan_XAN_Portrait_BG1.png/revision/latest/scale-to-width-down/210?cb=20180928095354"
+    },
+    {
+      "name": "Xzar_XZAR_Portrait_BG1.webp",
+      "url": "https://static.wikia.nocookie.net/baldursgategame/images/b/bf/Xzar_XZAR_Portrait_BG1.png/revision/latest/scale-to-width-down/210?cb=20180928105126"
+    },
+    {
+      "name": "Yeslick_Orothiar_YESLICK_Portrait_BG1.webp",
+      "url": "https://static.wikia.nocookie.net/baldursgategame/images/6/6d/Yeslick_Orothiar_YESLICK_Portrait_BG1.png/revision/latest/scale-to-width-down/210?cb=20180930151834"
+    }
+  ]
+}

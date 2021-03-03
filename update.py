@@ -9,6 +9,7 @@ PATH = os.path.dirname(__file__)
 packs = ""
 frames = ""
 playlists = ""
+images = ""
 
 SOURCES = { 
   "round-grey.png": "[VTTAssets](https://github.com/VTTAssets/vtta-tokenizer/tree/master/img)",
@@ -50,10 +51,12 @@ MARKDOWN_BUNDLE = """
 
 Resources for [Moulinette Bundler for FoundryVTT](https://github.com/SvenWerlen/moulinette/tree/master/bundler/README.md)
 
+{{INFOS}}
+
 ## List
 
-| Name | Source / copyrights | # element |
-| --- | --- | ---: |
+| Name | Source / copyrights | # element | Description |
+| --- | --- | ---: | --- |
 {{LIST}}
 """
 
@@ -120,11 +123,36 @@ for root, dirs, files in os.walk(PATH + "/playlists"):
         source = data["source"].split('|')[0]
         sourceURL = data["source"].split('|')[1]
         
-        playlists += "| [%s](%s) | [%s](%s) | %d |\n" % (name, url, source, sourceURL, len(data["list"]))
+        playlists += "| [%s](%s) | [%s](%s) | %d | %s |\n" % (name, url, source, sourceURL, len(data["list"]), data['description'])
         
 
-MARKDOWN_BUNDLE = MARKDOWN_BUNDLE.replace("{{LIST}}", playlists)
+MARKDOWN_BUNDLE_PL = MARKDOWN_BUNDLE.replace("{{LIST}}", playlists).replace("{{INFOS}}", "Playlists will be available as a new compendium. Don't forget to enable the module to see it in Foundry!")
 
 with open(PATH + "/playlists/README.md", "w") as f:
-  f.write(MARKDOWN_BUNDLE)
+  f.write(MARKDOWN_BUNDLE_PL)
+  f.close()
+  
+
+##
+## Images
+##
+for root, dirs, files in os.walk(PATH + "/images"):
+  for file in sorted(files): 
+    if file.endswith('.json'): 
+      path = os.path.join(root, file)
+      with open(path) as f:
+        data = json.loads(f.read())
+        name = data["name"]
+        # ./images/lists/baldurs-portraits.json => lists/baldurs-portraits.json
+        url = path.split("/images/")[1]
+        # "Baldur's Gate Wiki|https://baldursgate.fandom.com/wiki/Portraits",   
+        source = data["source"].split('|')[0]
+        sourceURL = data["source"].split('|')[1]
+        
+        images += "| [%s](%s) | [%s](%s) | %d | %s |\n" % (name, url, source, sourceURL, len(data["list"]), data['description'])
+        
+MARKDOWN_BUNDLE_IMG = MARKDOWN_BUNDLE.replace("{{LIST}}", images).replace("{{INFOS}}", "Browse `/module/<moulinette-name>/images/` in Foundry to find your images.")
+
+with open(PATH + "/images/README.md", "w") as f:
+  f.write(MARKDOWN_BUNDLE_IMG)
   f.close()
