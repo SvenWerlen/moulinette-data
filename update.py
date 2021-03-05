@@ -59,6 +59,11 @@ Resources for [Moulinette Bundler for FoundryVTT](https://github.com/SvenWerlen/
 | Name | Source / copyrights | # {{TYPE}} | Description |
 | --- | --- | ---: | --- |
 {{LIST}}
+
+## Contribute
+
+Are you interested in creating new bundles ? Check [how to contribute](CONTRIBUTE.md).
+
 """
 
 

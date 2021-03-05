@@ -1,6 +1,6 @@
 # Moulinette Data
 
-This repository contains all the files (data packs, frames, etc.) that can be used with
+This repository contains all the files (data packs, frames, playlists, etc.) that can be used with
 [Moulinette Tokenizer](https://github.com/SvenWerlen/moulinette/tree/master/tokenizer) and
 [Moulinette Bundler](https://github.com/SvenWerlen/moulinette/tree/master/bundler).
 
@@ -11,13 +11,7 @@ This repository contains all the files (data packs, frames, etc.) that can be us
 
 ## Contribute
 
-If you want to contribute:
-* Download the [Moulinette TokenTool](https://github.com/SvenWerlen/moulinette-tokentool)
-* Prepare a data pack by choosing your images from Internet
-* Export it and share the JSON file by either
-  * Submitting a pull request
-  * Opening an [issue](issue)
-  * Sharing it on [Discord](https://discord.gg/xg3dcMQfP2)
+If you want to contribute and submit your own packs, follow instructions available in CONTRIBUTE.md in each subfolder.
 
 ## Support me on Patreon
 
