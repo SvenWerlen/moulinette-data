@@ -7,6 +7,7 @@ This repository contains all the files (data packs, frames, etc.) that can be us
 * [Tokens](tokens/README.md) : data packs and frames for generating tokens
 * [Playlists](playlists/README.md) : audio playlists for your games
 * [Images](images/README.md) : images for your games
+* [Scenes](scenes/README.md) : scenes for your games
 
 ## Contribute
 

@@ -10,6 +10,7 @@ packs = ""
 frames = ""
 playlists = ""
 images = ""
+scenes = ""
 
 SOURCES = { 
   "round-grey.png": "[VTTAssets](https://github.com/VTTAssets/vtta-tokenizer/tree/master/img)",
@@ -55,7 +56,7 @@ Resources for [Moulinette Bundler for FoundryVTT](https://github.com/SvenWerlen/
 
 ## List
 
-| Name | Source / copyrights | # element | Description |
+| Name | Source / copyrights | # {{TYPE}} | Description |
 | --- | --- | ---: | --- |
 {{LIST}}
 """
@@ -126,7 +127,7 @@ for root, dirs, files in os.walk(PATH + "/playlists"):
         playlists += "| [%s](%s) | [%s](%s) | %d | %s |\n" % (name, url, source, sourceURL, len(data["list"]), data['description'])
         
 
-MARKDOWN_BUNDLE_PL = MARKDOWN_BUNDLE.replace("{{LIST}}", playlists).replace("{{INFOS}}", "Playlists will be available as a new compendium. Don't forget to enable the module to see it in Foundry!")
+MARKDOWN_BUNDLE_PL = MARKDOWN_BUNDLE.replace("{{LIST}}", playlists).replace("{{TYPE}}", "sounds").replace("{{INFOS}}", "Playlists available as a new compendium. Don't forget to enable the module to see it in Foundry!")
 
 with open(PATH + "/playlists/README.md", "w") as f:
   f.write(MARKDOWN_BUNDLE_PL)
@@ -151,8 +152,37 @@ for root, dirs, files in os.walk(PATH + "/images"):
         
         images += "| [%s](%s) | [%s](%s) | %d | %s |\n" % (name, url, source, sourceURL, len(data["list"]), data['description'])
         
-MARKDOWN_BUNDLE_IMG = MARKDOWN_BUNDLE.replace("{{LIST}}", images).replace("{{INFOS}}", "Browse `/module/<moulinette-name>/images/` in Foundry to find your images.")
+MARKDOWN_BUNDLE_IMG = MARKDOWN_BUNDLE.replace("{{LIST}}", images).replace("{{TYPE}}", "images").replace("{{INFOS}}", "Browse `/module/<moulinette-name>/images/` in Foundry to find your images.")
 
 with open(PATH + "/images/README.md", "w") as f:
   f.write(MARKDOWN_BUNDLE_IMG)
+  f.close()
+
+
+##
+## Scenes
+##
+for root, dirs, files in os.walk(PATH + "/scenes"):
+  for file in sorted(files): 
+    if file.endswith('.json'): 
+      path = os.path.join(root, file)
+      with open(path) as f:
+        data = json.loads(f.read())
+        # ignore metadata files
+        if not "type" in data or data["type"] != "scenes":
+          continue
+        
+        name = data["name"]
+        # ./scenes/pathfinder/curse-crimson-throne-old-fishery.json => pathfinder/curse-crimson-throne-old-fishery.json
+        url = path.split("/scenes/")[1]
+        # "rpgmapshare.com/|http://rpgmapshare.com"
+        source = data["source"].split('|')[0]
+        sourceURL = data["source"].split('|')[1]
+        
+        scenes += "| [%s](%s) | [%s](%s) | %d | %s |\n" % (name, url, source, sourceURL, len(data["list"]), data['description'])
+        
+MARKDOWN_BUNDLE_SCE = MARKDOWN_BUNDLE.replace("{{LIST}}", scenes).replace("{{TYPE}}", "scenes").replace("{{INFOS}}", "Scenes available as a new compendium. Don't forget to enable the module to see it in Foundry!")
+
+with open(PATH + "/scenes/README.md", "w") as f:
+  f.write(MARKDOWN_BUNDLE_SCE)
   f.close()
