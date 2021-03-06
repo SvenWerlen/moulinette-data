@@ -1,0 +1,15 @@
+{
+  "id": "curse-crimson-throne-rackers-alley",
+  "name": "2.D. Racker's Alley and Giotorri's Toys (Curse of the Crimson Throne)",
+  "description": "Racker's Alley and Giotorri's Toys of Pathfinder Adventure Path \"Curse of the Crimson Throne\"",
+  "type": "scenes",
+  "source": "rpgmapshare.com/|http://rpgmapshare.com",
+  "list": [
+    {
+      "name": "Rackers_alley_1.png",
+      "convert": "JPEG",
+      "url": "http://rpgmapshare.com/piwigo/gallery/action.php?id=173&part=e&download",
+      "data": "https://raw.githubusercontent.com/SvenWerlen/moulinette-data/main/scenes/pathfinder/curse-crimson-throne-2d-rackers-alley1.json"
+    }
+  ]
+}
