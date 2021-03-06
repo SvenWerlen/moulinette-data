@@ -1,0 +1,21 @@
+{
+  "id": "curse-crimson-throne-carowyn-manor",
+  "name": "2.E. Carowyn Manor (Curse of the Crimson Throne)",
+  "description": "Carowyn Manor of Pathfinder Adventure Path \"Curse of the Crimson Throne\"",
+  "type": "scenes",
+  "source": "rpgmapshare.com/|http://rpgmapshare.com",
+  "list": [
+    {
+      "name": "Carowyn_manor1.png",
+      "convert": "JPEG",
+      "url": "http://rpgmapshare.com/piwigo/gallery/action.php?id=92&part=e&download",
+      "data": "https://raw.githubusercontent.com/SvenWerlen/moulinette-data/main/scenes/pathfinder/curse-crimson-throne-2e-carowyn-manor1.json"
+    },
+    {
+      "name": "Carowyn_manor2.png",
+      "convert": "JPEG",
+      "url": "http://rpgmapshare.com/piwigo/gallery/action.php?id=93&part=e&download",
+      "data": "https://raw.githubusercontent.com/SvenWerlen/moulinette-data/main/scenes/pathfinder/curse-crimson-throne-2e-carowyn-manor2.json"
+    }
+  ]
+}
