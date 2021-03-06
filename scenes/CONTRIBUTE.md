@@ -23,8 +23,7 @@ This page describes **How to contribute** by submiting new scenes.
 * Create your scenes in Foundry VTT
 * Export your scenes (Right clic | Export)
 * Edit the exported file (`JSON` format)
-  1. Look for `"img": "<some-background-path>"`
-  1. Replace it with `"img": "{{PATH}}/<name-your-background-image>.jpg"`
+  1. Remove the property `"img": "<some-background-path>"` *(delete the entire line, including the `,`)*
   1. Remove the property `"thumb": "worlds/...",` *(delete the entire line, including the `,`)*
   1. Remove the property `"_priorThumbPath": "worlds/...",` *(delete the entire line, including the `,`)*
 * Create the bundle manifest
