@@ -3,11 +3,6 @@
   "name": "1.C. Eel's End (Lower Deck)",
   "sort": 500001,
   "flags": {
-    "cf": {
-      "id": "temp_hem3xk2nuhd",
-      "path": "Korvosa#/CF_SEP/Anarchie#/CF_SEP/Quai de l'Anguille",
-      "color": "#000000"
-    },
     "exportSource": {
       "world": "test",
       "system": "pf1",
