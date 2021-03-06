@@ -1,10 +1,16 @@
 {
   "id": "curse-crimson-eels-end",
-  "name": "C. Eel's End (Curse of the Crimson Throne)",
+  "name": "1.C. Eel's End (Curse of the Crimson Throne)",
   "description": "Eel's End of Pathfinder Adventure Path \"Curse of the Crimson Throne\"",
   "type": "scenes",
   "source": "rpgmapshare.com/|http://rpgmapshare.com",
   "list": [
+    {
+      "name": "Eels_End_0.png",
+      "convert": "JPEG",
+      "url": "https://www.kingdomofmorrain.com/CotCT/Eels_End_Main_Map.jpg",
+      "data": "https://raw.githubusercontent.com/SvenWerlen/moulinette-data/main/scenes/pathfinder/curse-crimson-throne-eels-end0.json"
+    },
     {
       "name": "Eels_End_1.png",
       "convert": "JPEG",
