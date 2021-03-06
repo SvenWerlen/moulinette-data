@@ -1,7 +1,7 @@
 {
   "id": "baldurs-portraits",
-  "name": "Baldur's gate 1 portraits",
-  "description": "Portraits from Baldur's gate 1 in WEBP format (4.4 MB).",
+  "name": "Portraits (from baldursgate.fandom.com)",
+  "description": "Portraits from Baldur's Gate Fandom in WEBP format (4.4 MB).",
   "type": "images",
   "source": "Baldur's Gate Wiki|https://baldursgate.fandom.com/wiki/Portraits",
   "list": [
