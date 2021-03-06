@@ -1,0 +1,15 @@
+{
+  "id": "curse-crimson-dead-warrens",
+  "name": "D. The Dead Warrens (Curse of the Crimson Throne)",
+  "description": "The Dead Warrens of Pathfinder Adventure Path \"Curse of the Crimson Throne\"",
+  "type": "scenes",
+  "source": "rpgmapshare.com/|http://rpgmapshare.com",
+  "list": [
+    {
+      "name": "Dead_Warrens_1.png",
+      "convert": "JPEG",
+      "url": "http://rpgmapshare.com/piwigo/gallery/action.php?id=120&part=e&download",
+      "data": "https://raw.githubusercontent.com/SvenWerlen/moulinette-data/main/scenes/pathfinder/curse-crimson-dead-warrens1.json"
+    }
+  ]
+}
