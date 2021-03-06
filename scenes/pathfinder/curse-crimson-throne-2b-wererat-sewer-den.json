@@ -1,0 +1,15 @@
+{
+  "id": "curse-crimson-throne-wererat-sewer-den",
+  "name": "2.B. Wererat Sewer Den (Curse of the Crimson Throne)",
+  "description": "Wererat Sewer Den of Pathfinder Adventure Path \"Curse of the Crimson Throne\"",
+  "type": "scenes",
+  "source": "rpgmapshare.com/|http://rpgmapshare.com",
+  "list": [
+    {
+      "name": "Wererat_Sewer_Den_1.png",
+      "convert": "JPEG",
+      "url": "http://rpgmapshare.com/piwigo/gallery/action.php?id=6503&part=e&download",
+      "data": "https://raw.githubusercontent.com/SvenWerlen/moulinette-data/main/scenes/pathfinder/curse-crimson-throne-2b-wererat-sewer-den1.json"
+    }
+  ]
+}
