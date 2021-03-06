@@ -9,7 +9,10 @@ Scenes available as a new compendium. Don't forget to enable the module to see i
 
 | Name | Source / copyrights | # scenes | Description |
 | --- | --- | ---: | --- |
-| [A. Old Fishery (Curse of the Crimson Throne)](pathfinder/curse-crimson-throne-old-fishery.json) | [rpgmapshare.com/](http://rpgmapshare.com) | 2 | The Old Fishery of Pathfinder Adventure Path "Curse of the Crimson Throne" |
+| [1.B. All the World's Meat (Curse of the Crimson Throne)](pathfinder/curse-crimson-throne-all-worlds-meat.json) | [rpgmapshare.com/](http://rpgmapshare.com) | 1 | Butcher's shop of Pathfinder Adventure Path "Curse of the Crimson Throne" |
+| [1.D. The Dead Warrens (Curse of the Crimson Throne)](pathfinder/curse-crimson-throne-dead-warrens.json) | [rpgmapshare.com/](http://rpgmapshare.com) | 1 | The Dead Warrens of Pathfinder Adventure Path "Curse of the Crimson Throne" |
+| [1.C. Eel's End (Curse of the Crimson Throne)](pathfinder/curse-crimson-throne-eels-end.json) | [rpgmapshare.com/](http://rpgmapshare.com) | 4 | Eel's End of Pathfinder Adventure Path "Curse of the Crimson Throne" |
+| [1.A. Old Fishery (Curse of the Crimson Throne)](pathfinder/curse-crimson-throne-old-fishery.json) | [rpgmapshare.com/](http://rpgmapshare.com) | 2 | The Old Fishery of Pathfinder Adventure Path "Curse of the Crimson Throne" |
 
 
 ## Contribute
