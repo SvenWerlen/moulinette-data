@@ -1,0 +1,27 @@
+{
+  "id": "curse-crimson-eels-end",
+  "name": "C. Eel's End (Curse of the Crimson Throne)",
+  "description": "Eel's End of Pathfinder Adventure Path \"Curse of the Crimson Throne\"",
+  "type": "scenes",
+  "source": "rpgmapshare.com/|http://rpgmapshare.com",
+  "list": [
+    {
+      "name": "Eels_End_1.png",
+      "convert": "JPEG",
+      "url": "http://rpgmapshare.com/piwigo/gallery/action.php?id=125&part=e&download",
+      "data": "https://raw.githubusercontent.com/SvenWerlen/moulinette-data/main/scenes/pathfinder/curse-crimson-throne-eels-end1.json"
+    },
+    {
+      "name": "Eels_End_2.png",
+      "convert": "JPEG",
+      "url": "http://rpgmapshare.com/piwigo/gallery/action.php?id=126&part=e&download",
+      "data": "https://raw.githubusercontent.com/SvenWerlen/moulinette-data/main/scenes/pathfinder/curse-crimson-throne-eels-end2.json"
+    },
+    {
+      "name": "Eels_End_3.png",
+      "convert": "JPEG",
+      "url": "http://rpgmapshare.com/piwigo/gallery/action.php?id=127&part=e&download",
+      "data": "https://raw.githubusercontent.com/SvenWerlen/moulinette-data/main/scenes/pathfinder/curse-crimson-throne-eels-end3.json"
+    }
+  ]
+}
