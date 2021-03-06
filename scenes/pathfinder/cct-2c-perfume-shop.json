@@ -1,0 +1,15 @@
+{
+  "id": "cct-perfume-shop",
+  "name": "2.C. Lavender and Vendra's appartment",
+  "description": "Lavender and Vendra's appartment",
+  "type": "scenes",
+  "source": "rpgmapshare.com|http://rpgmapshare.com",
+  "list": [
+    {
+      "name": "Lavender1.png",
+      "convert": "JPEG",
+      "url": "http://rpgmapshare.com/piwigo/gallery/action.php?id=191&part=e&download",
+      "data": "https://raw.githubusercontent.com/SvenWerlen/moulinette-data/main/scenes/pathfinder/cct-2c-perfume-shop1.json"
+    }
+  ]
+}

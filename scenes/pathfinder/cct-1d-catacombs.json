@@ -1,0 +1,15 @@
+{
+  "id": "cct-catacombs",
+  "name": "1.D. The Dead Warrens",
+  "description": "The Dead Warrens",
+  "type": "scenes",
+  "source": "rpgmapshare.com|http://rpgmapshare.com",
+  "list": [
+    {
+      "name": "Dead_Warrens_1.png",
+      "convert": "JPEG",
+      "url": "http://rpgmapshare.com/piwigo/gallery/action.php?id=120&part=e&download",
+      "data": "https://raw.githubusercontent.com/SvenWerlen/moulinette-data/main/scenes/pathfinder/cct-1d-catacombs1.json"
+    }
+  ]
+}
