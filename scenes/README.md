@@ -9,17 +9,17 @@ Scenes available as a new compendium. Don't forget to enable the module to see i
 
 | Name | Source / copyrights | # scenes | Description |
 | --- | --- | ---: | --- |
-| [1.A. Old Fishery (Curse of the Crimson Throne)](pathfinder/curse-crimson-throne-1a-old-fishery.json) | [rpgmapshare.com](http://rpgmapshare.com) | 2 | The Old Fishery from Pathfinder Adventure Path "Curse of the Crimson Throne" |
-| [1.B. All the World's Meat (Curse of the Crimson Throne)](pathfinder/curse-crimson-throne-1b-all-worlds-meat.json) | [rpgmapshare.com](http://rpgmapshare.com) | 1 | Butcher's shop from Pathfinder Adventure Path "Curse of the Crimson Throne" |
-| [1.C. Eel's End (Curse of the Crimson Throne)](pathfinder/curse-crimson-throne-1c-eels-end.json) | [rpgmapshare.com](http://rpgmapshare.com) | 4 | Eel's End from Pathfinder Adventure Path "Curse of the Crimson Throne" |
-| [1.D. The Dead Warrens (Curse of the Crimson Throne)](pathfinder/curse-crimson-throne-1d-dead-warrens.json) | [rpgmapshare.com](http://rpgmapshare.com) | 1 | The Dead Warrens from Pathfinder Adventure Path "Curse of the Crimson Throne" |
-| [2. Graveyard and Guardpost (Curse of the Crimson Throne)](pathfinder/curse-crimson-throne-2-other-encounters.json) | [rpgmapshare.com](http://rpgmapshare.com) | 2 | Signs of the Plague from Pathfinder Adventure Path "Curse of the Crimson Throne" |
-| [2.B. Wererat Sewer Den (Curse of the Crimson Throne)](pathfinder/curse-crimson-throne-2b-wererat-sewer-den.json) | [rpgmapshare.com](http://rpgmapshare.com) | 1 | Wererat Sewer Den from Pathfinder Adventure Path "Curse of the Crimson Throne" |
-| [2.C. Lavender and Vendra's appartment (Curse of the Crimson Throne)](pathfinder/curse-crimson-throne-2c-lavender.json) | [rpgmapshare.com](http://rpgmapshare.com) | 1 | Lavender and Vendra's appartment from Pathfinder Adventure Path "Curse of the Crimson Throne" |
-| [2.D. Racker's Alley and Giotorri's Toys (Curse of the Crimson Throne)](pathfinder/curse-crimson-throne-2d-rackers-alley.json) | [rpgmapshare.com](http://rpgmapshare.com) | 1 | Racker's Alley and Giotorri's Toys from Pathfinder Adventure Path "Curse of the Crimson Throne" |
-| [2.E. Carowyn Manor (Curse of the Crimson Throne)](pathfinder/curse-crimson-throne-2e-carowyn-manor.json) | [rpgmapshare.com](http://rpgmapshare.com) | 2 | Carowyn Manor from Pathfinder Adventure Path "Curse of the Crimson Throne" |
-| [2.F. Hospice of the Blessed Maiden (Curse of the Crimson Throne)](pathfinder/curse-crimson-throne-2f-hospice.json) | [rpgmapshare.com](http://rpgmapshare.com) | 2 | Hospice of the Blessed Maiden from Pathfinder Adventure Path "Curse of the Crimson Throne" |
-| [2.G. Temple of Urgathoa (Curse of the Crimson Throne)](pathfinder/curse-crimson-throne-2g-temple-urgathoa.json) | [rpgmapshare.com](http://rpgmapshare.com) | 2 | Temple of Urgathoa from Pathfinder Adventure Path "Curse of the Crimson Throne" |
+| [1.A. Old Fishery](pathfinder/cct-1a-old-fishery.json) | [rpgmapshare.com](http://rpgmapshare.com) | 2 | An Old Fishery |
+| [1.B. Butcher's shop](pathfinder/cct-1b-butchers-shop.json) | [rpgmapshare.com](http://rpgmapshare.com) | 1 | A butcher's shop |
+| [1.C. Docks and Ships](pathfinder/cct-1c-docks.json) | [rpgmapshare.com](http://rpgmapshare.com) | 4 | Docks and and maps of a ship |
+| [1.D. Catacombs](pathfinder/cct-1d-catacombs.json) | [rpgmapshare.com](http://rpgmapshare.com) | 1 | Catacombs |
+| [2. Graveyard and Guardpost](pathfinder/cct-2-other-encounters.json) | [rpgmapshare.com](http://rpgmapshare.com) | 2 | Signs of the Plague |
+| [2.B. Sewer Den](pathfinder/cct-2b-sewer-den.json) | [rpgmapshare.com](http://rpgmapshare.com) | 1 | Sewer Den |
+| [2.C. Perfume Shop and Apartment](pathfinder/cct-2c-perfume-shop.json) | [rpgmapshare.com](http://rpgmapshare.com) | 1 | Perfume Shop and Apartment |
+| [2.D. Alley and Shop](pathfinder/cct-2d-alley.json) | [rpgmapshare.com](http://rpgmapshare.com) | 1 | Alley and nearby Shop |
+| [2.E. Manor](pathfinder/cct-2e-manor.json) | [rpgmapshare.com](http://rpgmapshare.com) | 2 | Manor |
+| [2.F. Hospice](pathfinder/cct-2f-hospice.json) | [rpgmapshare.com](http://rpgmapshare.com) | 2 | A large Hospice |
+| [2.G. Temple](pathfinder/cct-2g-temple.json) | [rpgmapshare.com](http://rpgmapshare.com) | 2 | An underground Temple |
 
 
 ## Contribute

@@ -1,18 +1,18 @@
 {
   "id": "cct-temple",
-  "name": "2.G. Temple of Urgathoa",
-  "description": "Temple of Urgathoa",
+  "name": "2.G. Temple",
+  "description": "An underground Temple",
   "type": "scenes",
   "source": "rpgmapshare.com|http://rpgmapshare.com",
   "list": [
     {
-      "name": "Temple_Urgathoa_1.png",
+      "name": "Temple_1.png",
       "convert": "JPEG",
       "url": "http://rpgmapshare.com/piwigo/gallery/action.php?id=339&part=e&download",
       "data": "https://raw.githubusercontent.com/SvenWerlen/moulinette-data/main/scenes/pathfinder/cct-2g-temple1.json"
     },
     {
-      "name": "Temple_Urgathoa_2.jpg",
+      "name": "Temple_2.jpg",
       "url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8291c1fc-199f-4bfb-adb8-1463e00da41a/d7bwxgt-271c502c-68ff-4431-a9f1-261f73c7d1b9.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvODI5MWMxZmMtMTk5Zi00YmZiLWFkYjgtMTQ2M2UwMGRhNDFhXC9kN2J3eGd0LTI3MWM1MDJjLTY4ZmYtNDQzMS1hOWYxLTI2MWY3M2M3ZDFiOS5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.w5Pvs6EfdArCuyK6rrET_cmidWYEDxSK88CfYumnAFo",
       "src": "https://www.deviantart.com/askren/art/Urgathoa-End-443275373",
       "data": "https://raw.githubusercontent.com/SvenWerlen/moulinette-data/main/scenes/pathfinder/cct-2g-temple2.json"

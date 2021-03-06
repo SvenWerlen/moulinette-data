@@ -1,12 +1,12 @@
 {
   "id": "cct-alley",
-  "name": "2.D. Racker's Alley and Giotorri's Toys",
-  "description": "Racker's Alley and Giotorri's Toys",
+  "name": "2.D. Alley and Shop",
+  "description": "Alley and nearby Shop",
   "type": "scenes",
   "source": "rpgmapshare.com|http://rpgmapshare.com",
   "list": [
     {
-      "name": "Rackers_alley_1.png",
+      "name": "Alley_1.png",
       "convert": "JPEG",
       "url": "http://rpgmapshare.com/piwigo/gallery/action.php?id=173&part=e&download",
       "data": "https://raw.githubusercontent.com/SvenWerlen/moulinette-data/main/scenes/pathfinder/cct-2d-alley1.json"

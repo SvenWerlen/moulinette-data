@@ -1,12 +1,12 @@
 {
   "id": "cct-butchers-shop",
-  "name": "1.B. All the World's Meat",
-  "description": "Butcher's shop",
+  "name": "1.B. Butcher's shop",
+  "description": "A butcher's shop",
   "type": "scenes",
   "source": "rpgmapshare.com|http://rpgmapshare.com",
   "list": [
     {
-      "name": "All_the_worlds_meat.png",
+      "name": "Butchers-shop.png",
       "convert": "JPEG",
       "url": "http://rpgmapshare.com/piwigo/gallery/action.php?id=65&part=e&download",
       "data": "https://raw.githubusercontent.com/SvenWerlen/moulinette-data/main/scenes/pathfinder/cct-1b-butchers-shop1.json"
