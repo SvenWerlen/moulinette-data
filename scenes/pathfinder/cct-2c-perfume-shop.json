@@ -1,15 +1,15 @@
 {
-  "id": "cct-perfume-shop",
-  "name": "2.C. Perfume Shop and Apartment",
-  "description": "Perfume Shop and Apartment",
-  "type": "scenes",
-  "source": "rpgmapshare.com|http://rpgmapshare.com/piwigo/gallery/picture.php?/191/search/82",
-  "list": [
-    {
-      "name": "PerfumeShop1.png",
-      "convert": "JPEG",
-      "url": "http://rpgmapshare.com/piwigo/gallery/action.php?id=191&part=e&download",
-      "data": "https://raw.githubusercontent.com/SvenWerlen/moulinette-data/main/scenes/pathfinder/cct-2c-perfume-shop1.json"
-    }
-  ]
+    "id": "cct-perfume-shop",
+    "name": "2.C. Perfume Shop and Apartment",
+    "description": "A perfume shop and owner's apartment",
+    "type": "scenes",
+    "source": "rpgmapshare.com|http://rpgmapshare.com/piwigo/gallery/picture.php?/191/search/82",
+    "list": [
+        {
+            "name": "PerfumeShop1.png",
+            "convert": "JPEG",
+            "url": "http://rpgmapshare.com/piwigo/gallery/action.php?id=191&part=e&download",
+            "data": "/main/scenes/pathfinder/cct-2c-perfume-shop1.json"
+        }
+    ]
 }

@@ -1,33 +1,33 @@
 {
-  "id": "cct-docks",
-  "name": "1.C. Docks and Ships",
-  "description": "Docks and and maps of a ship",
-  "type": "scenes",
-  "source": "rpgmapshare.com|http://rpgmapshare.com/piwigo/gallery/picture.php?/126/search/82",
-  "list": [
-    {
-      "name": "Docks-Ship_0.png",
-      "convert": "JPEG",
-      "url": "https://www.kingdomofmorrain.com/CotCT/Eels_End_Main_Map.jpg",
-      "data": "https://raw.githubusercontent.com/SvenWerlen/moulinette-data/main/scenes/pathfinder/cct-1c-docks0.json"
-    },
-    {
-      "name": "Docks-Ship_1.png",
-      "convert": "JPEG",
-      "url": "http://rpgmapshare.com/piwigo/gallery/action.php?id=125&part=e&download",
-      "data": "https://raw.githubusercontent.com/SvenWerlen/moulinette-data/main/scenes/pathfinder/cct-1c-docks1.json"
-    },
-    {
-      "name": "Docks-Ship_2.png",
-      "convert": "JPEG",
-      "url": "http://rpgmapshare.com/piwigo/gallery/action.php?id=126&part=e&download",
-      "data": "https://raw.githubusercontent.com/SvenWerlen/moulinette-data/main/scenes/pathfinder/cct-1c-docks2.json"
-    },
-    {
-      "name": "Docks-Ship_3.png",
-      "convert": "JPEG",
-      "url": "http://rpgmapshare.com/piwigo/gallery/action.php?id=127&part=e&download",
-      "data": "https://raw.githubusercontent.com/SvenWerlen/moulinette-data/main/scenes/pathfinder/cct-1c-docks3.json"
-    }
-  ]
+    "id": "cct-docks",
+    "name": "1.C. Docks and Ships",
+    "description": "Docks and maps of a ship",
+    "type": "scenes",
+    "source": "rpgmapshare.com|http://rpgmapshare.com/piwigo/gallery/picture.php?/126/search/82",
+    "list": [
+        {
+            "name": "Docks-Ship_0.png",
+            "convert": "JPEG",
+            "url": "https://www.kingdomofmorrain.com/CotCT/Eels_End_Main_Map.jpg",
+            "data": "/main/scenes/pathfinder/cct-1c-docks0.json"
+        },
+        {
+            "name": "Docks-Ship_1.png",
+            "convert": "JPEG",
+            "url": "http://rpgmapshare.com/piwigo/gallery/action.php?id=125&part=e&download",
+            "data": "/main/scenes/pathfinder/cct-1c-docks1.json"
+        },
+        {
+            "name": "Docks-Ship_2.png",
+            "convert": "JPEG",
+            "url": "http://rpgmapshare.com/piwigo/gallery/action.php?id=126&part=e&download",
+            "data": "/main/scenes/pathfinder/cct-1c-docks2.json"
+        },
+        {
+            "name": "Docks-Ship_3.png",
+            "convert": "JPEG",
+            "url": "http://rpgmapshare.com/piwigo/gallery/action.php?id=127&part=e&download",
+            "data": "/main/scenes/pathfinder/cct-1c-docks3.json"
+        }
+    ]
 }
