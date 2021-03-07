@@ -56,7 +56,7 @@ Resources for [Moulinette Bundler for FoundryVTT](https://github.com/SvenWerlen/
 
 ## List
 
-| Name | Source / copyrights | # {{TYPE}} | Description |
+| Name | Source / copyrights | # {{TYPE}} | Description / Preview |
 | --- | --- | ---: | --- |
 {{LIST}}
 
@@ -188,7 +188,10 @@ for root, dirs, files in os.walk(PATH + "/scenes"):
         source = data["source"].split('|')[0]
         sourceURL = data["source"].split('|')[1]
         
-        scenes += "| [%s](%s) | [%s](%s) | %d | %s |\n" % (name, url, source, sourceURL, len(data["list"]), data['description'])
+        thumb = "<img src=\"https://boisdechet.org/moulinette/static/thumbs/%s.webp\" width=\"200\" title=\"%s\"/>" % (data["id"], data["description"])
+        print(thumb)
+        
+        scenes += "| [%s](%s) | [%s](%s) | %d | %s |\n" % (name, url, source, sourceURL, len(data["list"]), thumb)
         
 MARKDOWN_BUNDLE_SCE = MARKDOWN_BUNDLE.replace("{{LIST}}", scenes).replace("{{TYPE}}", "scenes").replace("{{INFOS}}", "Scenes available as a new compendium. Don't forget to enable the module to see it in Foundry!")
 
