@@ -173,9 +173,13 @@ for root, dirs, files in os.walk(PATH + "/scenes"):
       path = os.path.join(root, file)
       with open(path) as f:
         data = json.loads(f.read())
+        
         # ignore metadata files
         if not "type" in data or data["type"] != "scenes":
           continue
+        
+        if path.find("wfrp4e") > 0:
+          continue;
         
         name = data["name"]
         # ./scenes/pathfinder/curse-crimson-throne-old-fishery.json => pathfinder/curse-crimson-throne-old-fishery.json
