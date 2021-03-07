@@ -9,6 +9,16 @@ Scenes available as a new compendium. Don't forget to enable the module to see i
 
 | Name | Source / copyrights | # scenes | Description |
 | --- | --- | ---: | --- |
+| [Barracks](bobours/barracks.json) | [Bobours@Inkarnate](https://next.inkarnate.com/p/R7wOJa--bobours/maps/41rA8j--barrack/) | 1 | Barracks (© Bobours) |
+| [Inn "Les 3 plumes"](bobours/les-3-plumes.json) | [Bobours@Inkarnate](https://next.inkarnate.com/p/R7wOJa--bobours/maps/X0AroO--les-3-plumes/) | 1 | An Inn (© Bobours) |
+| [Lumber Camp](bobours/lumber-camp.json) | [Bobours@Inkarnate](https://next.inkarnate.com/p/R7wOJa--bobours/maps/Yy8eRr--lumber-camp/) | 1 | A lumber camp (© Bobours) |
+| [Noble House](bobours/noble-house.json) | [Bobours@Inkarnate](https://next.inkarnate.com/p/R7wOJa--bobours/maps/BQpPqL--niederstadt-haus/) | 1 | A noble house (© Bobours) |
+| [Pleasure Room](bobours/pleasure-room.json) | [Bobours@Inkarnate](https://next.inkarnate.com/p/R7wOJa--bobours/maps/Bj8Ege--a-slaanesh-plaisir-room/) | 1 | A pleasure room (© Bobours) |
+| [Collapsed Sewers](bobours/sewers-collapsed.json) | [Bobours@Inkarnate](https://next.inkarnate.com/p/R7wOJa--bobours/maps/4WoRdy--sewer-destroyed/) | 1 | Collapsed sewers (© Bobours) |
+| [Sewers](bobours/sewers.json) | [Bobours@Inkarnate](https://next.inkarnate.com/p/R7wOJa--bobours/maps/BvMZDA--sewer/) | 1 | Sewers (© Bobours) |
+| [Small Farm Village](bobours/small-farm-village.json) | [Bobours@Inkarnate](https://next.inkarnate.com/p/R7wOJa--bobours/maps/BgeexG--village-the-last-hope/) | 1 | A small farm village (© Bobours) |
+| [Streets](bobours/streets.json) | [Bobours@Inkarnate](https://next.inkarnate.com/p/R7wOJa--bobours/maps/BXnGjq--despairs-street/) | 1 | Streets (© Bobours) |
+| [Toll](bobours/toll.json) | [Bobours@Inkarnate](https://next.inkarnate.com/p/R7wOJa--bobours/maps/Bbg06G--toll-ground-floor/) | 1 | A toll (© Bobours) |
 | [1.A. Old Fishery](pathfinder/cct-1a-old-fishery.json) | [rpgmapshare.com](http://rpgmapshare.com/piwigo/gallery/picture.php?/6466/search/330) | 2 | An Old Fishery |
 | [1.B. Butcher's shop](pathfinder/cct-1b-butchers-shop.json) | [rpgmapshare.com](http://rpgmapshare.com/piwigo/gallery/picture.php?/65/search/82) | 1 | A butcher's shop |
 | [1.C. Docks and Ships](pathfinder/cct-1c-docks.json) | [rpgmapshare.com](http://rpgmapshare.com/piwigo/gallery/picture.php?/126/search/82) | 4 | Docks and and maps of a ship |

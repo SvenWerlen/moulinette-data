@@ -1,0 +1,59 @@
+{
+    "_id": "ccUZANC5ssiKqi3C",
+    "name": "Caserne",
+    "sort": 200000,
+    "flags": {
+        "perfect-vision": {
+            "sightLimit": null,
+            "globalLight": "default",
+            "daylightColor": "",
+            "darknessColor": "",
+            "_version": 1
+        },
+        "exportSource": {
+            "world": "wfpr-v4",
+            "system": "wfrp4e",
+            "coreVersion": "0.7.9",
+            "systemVersion": "3.4.1"
+        }
+    },
+    "description": "",
+    "navigation": false,
+    "navOrder": 200000,
+    "navName": "",
+    "active": false,
+    "initial": {
+        "x": 1803,
+        "y": 1122,
+        "scale": 0.63
+    },
+    "width": 2048,
+    "height": 1536,
+    "padding": 0.25,
+    "backgroundColor": "#999999",
+    "tiles": [],
+    "gridType": 0,
+    "grid": 50,
+    "shiftX": 0,
+    "shiftY": 0,
+    "gridColor": "#000000",
+    "gridAlpha": 0.2,
+    "gridDistance": 1,
+    "gridUnits": "m",
+    "tokens": [],
+    "walls": [],
+    "tokenVision": false,
+    "fogExploration": true,
+    "lights": [],
+    "globalLight": true,
+    "globalLightThreshold": null,
+    "darkness": 0,
+    "playlist": "",
+    "sounds": [],
+    "templates": [],
+    "journal": "",
+    "notes": [],
+    "weather": "",
+    "drawings": [],
+    "size": null
+}
