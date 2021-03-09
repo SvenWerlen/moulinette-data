@@ -1,0 +1,14 @@
+{
+    "id": "maison-avec-pont-house-with-bridge",
+    "name": "Maison avec Pont / House with Bridge",
+    "description": "Maps for Ennemy in Shadows (ie Book 1 of the Imperial Campaign for Warhammer RPG)",
+    "type": "scenes",
+    "source": "Multiple authors|https://gitlab.com/LeRatierBretonnien/wfrp4e-eis-maps",
+    "list": [
+        {
+            "name": "pont-et-maison.webp",
+            "url": "https://gitlab.com/LeRatierBretonnien/wfrp4e-eis-maps/-/raw/master/images/scenes/Pont et Maison.webp",
+            "data": "https://raw.githubusercontent.com/SvenWerlen/moulinette-data/main/scenes/wfrp4e-eis-maps/maison-avec-pont-house-with-bridge-1.json"
+        }
+    ]
+}

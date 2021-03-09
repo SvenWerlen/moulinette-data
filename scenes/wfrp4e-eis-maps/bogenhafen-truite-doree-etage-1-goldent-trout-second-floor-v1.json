@@ -1,0 +1,14 @@
+{
+    "id": "bogenhafen-truite-doree-etage-1-goldent-trout-second-floor-v1",
+    "name": "Bogenhafen - Truite Dor\u00e9e (Etage 1) / Goldent Trout (Second Floor) - v1",
+    "description": "Maps for Ennemy in Shadows (ie Book 1 of the Imperial Campaign for Warhammer RPG)",
+    "type": "scenes",
+    "source": "Multiple authors|https://gitlab.com/LeRatierBretonnien/wfrp4e-eis-maps",
+    "list": [
+        {
+            "name": "la-truite-doree-1er-etage.jpg",
+            "url": "https://gitlab.com/LeRatierBretonnien/wfrp4e-eis-maps/-/raw/master/images/scenes/La_truite_doree_1er_Etage.jpg",
+            "data": "https://raw.githubusercontent.com/SvenWerlen/moulinette-data/main/scenes/wfrp4e-eis-maps/bogenhafen-truite-doree-etage-1-goldent-trout-second-floor-v1-1.json"
+        }
+    ]
+}

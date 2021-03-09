@@ -1,0 +1,137 @@
+{
+    "name": "Bureau Teugen",
+    "permission": {
+        "default": 0,
+        "KlpQY85kaIy1CjL6": 3
+    },
+    "flags": {
+        "calendar-weather": {
+            "showFX": false,
+            "doNightCycle": false
+        },
+        "core": {
+            "sourceId": "Scene.Y7n5OpB0iUGLje4H"
+        }
+    },
+    "description": "",
+    "navigation": false,
+    "navOrder": null,
+    "navName": "",
+    "active": false,
+    "initial": null,
+    "width": 2048,
+    "height": 2048,
+    "padding": 0.25,
+    "backgroundColor": "#999999",
+    "tiles": [],
+    "gridType": 0,
+    "grid": 100,
+    "shiftX": 0,
+    "shiftY": 0,
+    "gridColor": "#000000",
+    "gridAlpha": 0.2,
+    "gridDistance": 2,
+    "gridUnits": "yd",
+    "tokens": [],
+    "walls": [
+        {
+            "_id": "9GzvM8KZwrNUcHVC",
+            "flags": {},
+            "c": [
+                1025,
+                987,
+                2237,
+                987
+            ],
+            "move": 1,
+            "sense": 1,
+            "door": 0,
+            "ds": 0
+        },
+        {
+            "_id": "3a5ZJZnq4jGxWzEr",
+            "flags": {},
+            "c": [
+                2237,
+                987,
+                2237,
+                2262
+            ],
+            "move": 1,
+            "sense": 1,
+            "door": 0,
+            "ds": 0
+        },
+        {
+            "_id": "JWGpWl1x5ckUdQyY",
+            "flags": {},
+            "c": [
+                2237,
+                2262,
+                1737,
+                2250
+            ],
+            "move": 1,
+            "sense": 1,
+            "door": 0,
+            "ds": 0
+        },
+        {
+            "_id": "8itqaVsIfaNYlBhz",
+            "flags": {},
+            "c": [
+                1512,
+                2250,
+                1025,
+                2250
+            ],
+            "move": 1,
+            "sense": 1,
+            "door": 0,
+            "ds": 0
+        },
+        {
+            "_id": "qrHc1pGsTpdjCz1z",
+            "flags": {},
+            "c": [
+                1025,
+                2250,
+                1025,
+                987
+            ],
+            "move": 1,
+            "sense": 1,
+            "door": 0,
+            "ds": 0
+        },
+        {
+            "_id": "O4f4mLW49V1csr7b",
+            "flags": {},
+            "c": [
+                1512,
+                2250,
+                1737,
+                2250
+            ],
+            "move": 1,
+            "sense": 1,
+            "door": 1,
+            "ds": 0
+        }
+    ],
+    "tokenVision": true,
+    "fogExploration": true,
+    "fogReset": null,
+    "lights": [],
+    "globalLight": false,
+    "globalLightThreshold": null,
+    "darkness": 0,
+    "playlist": "",
+    "sounds": [],
+    "templates": [],
+    "journal": "",
+    "notes": [],
+    "weather": "",
+    "drawings": [],
+    "_id": "n6cxTXuYkjU0yyEs"
+}

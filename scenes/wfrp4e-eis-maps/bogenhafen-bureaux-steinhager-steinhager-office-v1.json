@@ -1,0 +1,14 @@
+{
+    "id": "bogenhafen-bureaux-steinhager-steinhager-office-v1",
+    "name": "Bogenhafen - Bureaux Steinhager / Steinhager Office - v1",
+    "description": "Maps for Ennemy in Shadows (ie Book 1 of the Imperial Campaign for Warhammer RPG)",
+    "type": "scenes",
+    "source": "Multiple authors|https://gitlab.com/LeRatierBretonnien/wfrp4e-eis-maps",
+    "list": [
+        {
+            "name": "bureau-de-steinhager.jpg",
+            "url": "https://gitlab.com/LeRatierBretonnien/wfrp4e-eis-maps/-/raw/master/images/scenes/Bureau_de_Steinhager.jpg",
+            "data": "https://raw.githubusercontent.com/SvenWerlen/moulinette-data/main/scenes/wfrp4e-eis-maps/bogenhafen-bureaux-steinhager-steinhager-office-v1-1.json"
+        }
+    ]
+}

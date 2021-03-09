@@ -1,0 +1,14 @@
+{
+    "id": "coach-and-horses-second-floor",
+    "name": "Coach and Horses (Second Floor)",
+    "description": "Maps for Ennemy in Shadows (ie Book 1 of the Imperial Campaign for Warhammer RPG)",
+    "type": "scenes",
+    "source": "Multiple authors|https://gitlab.com/LeRatierBretonnien/wfrp4e-eis-maps",
+    "list": [
+        {
+            "name": "the-coach-and-horses-first-floor.webp",
+            "url": "https://gitlab.com/LeRatierBretonnien/wfrp4e-eis-maps/-/raw/master/images/scenes/The Coach and Horses First Floor.webp",
+            "data": "https://raw.githubusercontent.com/SvenWerlen/moulinette-data/main/scenes/wfrp4e-eis-maps/coach-and-horses-second-floor-1.json"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "id": "manoir-en-ruine-ruins-of-manor",
+    "name": "Manoir en Ruine / Ruins of Manor",
+    "description": "Maps for Ennemy in Shadows (ie Book 1 of the Imperial Campaign for Warhammer RPG)",
+    "type": "scenes",
+    "source": "Multiple authors|https://gitlab.com/LeRatierBretonnien/wfrp4e-eis-maps",
+    "list": [
+        {
+            "name": "ruines-domaine-noble-et-cercle-d-incantation.webp",
+            "url": "https://gitlab.com/LeRatierBretonnien/wfrp4e-eis-maps/-/raw/master/images/scenes/Ruines Domaine Noble et Cercle d'incantation.webp",
+            "data": "https://raw.githubusercontent.com/SvenWerlen/moulinette-data/main/scenes/wfrp4e-eis-maps/manoir-en-ruine-ruins-of-manor-1.json"
+        }
+    ]
+}

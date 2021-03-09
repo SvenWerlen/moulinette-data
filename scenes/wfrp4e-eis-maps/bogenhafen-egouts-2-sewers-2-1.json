@@ -1,0 +1,137 @@
+{
+    "_id": "M5y1V9osY1iRlChq",
+    "name": "Bogenhafen - Egouts 2 / Sewers 2",
+    "permission": {
+        "default": 0,
+        "KlpQY85kaIy1CjL6": 3
+    },
+    "flags": {},
+    "description": "",
+    "navigation": false,
+    "navOrder": null,
+    "active": false,
+    "initial": null,
+    "width": 3840,
+    "height": 3072,
+    "backgroundColor": "#999999",
+    "tiles": [],
+    "gridType": 1,
+    "grid": 256,
+    "shiftX": 0,
+    "shiftY": 0,
+    "gridColor": "#000000",
+    "gridAlpha": 0.2,
+    "gridDistance": 2,
+    "gridUnits": "yd",
+    "tokens": [],
+    "walls": [
+        {
+            "_id": "MfDogHswbkNWPzzh",
+            "flags": {},
+            "c": [
+                3840,
+                768,
+                3840,
+                3840
+            ],
+            "move": 1,
+            "sense": 1,
+            "door": 0,
+            "ds": 0
+        },
+        {
+            "_id": "NT0WMj0GTzoeZdmZ",
+            "flags": {},
+            "c": [
+                1024,
+                2560,
+                2816,
+                2560
+            ],
+            "move": 1,
+            "sense": 1,
+            "door": 0,
+            "ds": 0
+        },
+        {
+            "_id": "5cRS1fyBSGPbMdc1",
+            "flags": {},
+            "c": [
+                2816,
+                2560,
+                2816,
+                3840
+            ],
+            "move": 1,
+            "sense": 1,
+            "door": 0,
+            "ds": 0
+        },
+        {
+            "_id": "zY2zCw0F69r8Od7B",
+            "flags": {},
+            "c": [
+                2816,
+                1536,
+                2816,
+                1536
+            ],
+            "move": 1,
+            "sense": 1,
+            "door": 0,
+            "ds": 0
+        },
+        {
+            "_id": "EJW4l2feK8EFoI2U",
+            "flags": {},
+            "c": [
+                2816,
+                1536,
+                2816,
+                768
+            ],
+            "move": 1,
+            "sense": 1,
+            "door": 0,
+            "ds": 0
+        },
+        {
+            "_id": "zoTMqZdfEo0ELUxK",
+            "flags": {},
+            "c": [
+                1024,
+                1536,
+                2816,
+                1536
+            ],
+            "move": 1,
+            "sense": 1,
+            "door": 0,
+            "ds": 0
+        },
+        {
+            "_id": "RdhUnl1bdS6iRlmb",
+            "flags": {},
+            "c": [
+                2816,
+                1536,
+                2816,
+                1536
+            ],
+            "move": 1,
+            "sense": 1,
+            "door": 0,
+            "ds": 0
+        }
+    ],
+    "tokenVision": true,
+    "fogExploration": true,
+    "fogReset": null,
+    "lights": [],
+    "globalLight": false,
+    "darkness": 0,
+    "sounds": [],
+    "templates": [],
+    "notes": [],
+    "drawings": []
+}

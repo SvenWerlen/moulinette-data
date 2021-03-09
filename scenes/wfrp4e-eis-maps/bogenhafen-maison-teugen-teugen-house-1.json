@@ -1,0 +1,165 @@
+{
+    "_id": "gfeZhHZGUJ2UJPqm",
+    "name": "Bogenhafen - Maison Teugen / Teugen House",
+    "permission": {
+        "default": 0,
+        "KlpQY85kaIy1CjL6": 3
+    },
+    "flags": {},
+    "description": "",
+    "navigation": false,
+    "navOrder": null,
+    "active": false,
+    "initial": null,
+    "width": 2048,
+    "height": 1408,
+    "backgroundColor": "#999999",
+    "tiles": [],
+    "gridType": 1,
+    "grid": 128,
+    "shiftX": 0,
+    "shiftY": 0,
+    "gridColor": "#000000",
+    "gridAlpha": 0.2,
+    "gridDistance": 2,
+    "gridUnits": "yd",
+    "tokens": [],
+    "walls": [
+        {
+            "_id": "5mTm6PPmdhTQvHjy",
+            "flags": {},
+            "c": [
+                619.36832,
+                887.052288,
+                574,
+                718
+            ],
+            "move": 1,
+            "sense": 1,
+            "door": 0,
+            "ds": 0
+        },
+        {
+            "_id": "q7HOz3Ye7xgECqW6",
+            "flags": {},
+            "c": [
+                574,
+                718,
+                896,
+                512
+            ],
+            "move": 1,
+            "sense": 1,
+            "door": 0,
+            "ds": 0
+        },
+        {
+            "_id": "vtLiipZK4Y9Drt0O",
+            "flags": {},
+            "c": [
+                896,
+                512,
+                1826,
+                514
+            ],
+            "move": 1,
+            "sense": 1,
+            "door": 0,
+            "ds": 0
+        },
+        {
+            "_id": "geXv6PnFb0yCgbFm",
+            "flags": {},
+            "c": [
+                1826,
+                514,
+                1908,
+                454
+            ],
+            "move": 1,
+            "sense": 1,
+            "door": 0,
+            "ds": 0
+        },
+        {
+            "_id": "TJqQys85A4mIlvBB",
+            "flags": {},
+            "c": [
+                1908,
+                454,
+                2506,
+                758
+            ],
+            "move": 1,
+            "sense": 1,
+            "door": 0,
+            "ds": 0
+        },
+        {
+            "_id": "oijEWpcaIcjSNP2C",
+            "flags": {},
+            "c": [
+                2506,
+                758,
+                1416,
+                1754
+            ],
+            "move": 1,
+            "sense": 1,
+            "door": 0,
+            "ds": 0
+        },
+        {
+            "_id": "fFg1JifskIavDBkX",
+            "flags": {},
+            "c": [
+                1416,
+                1754,
+                742,
+                1344
+            ],
+            "move": 1,
+            "sense": 1,
+            "door": 0,
+            "ds": 0
+        },
+        {
+            "_id": "WQ7t4zpbDRtpjkpC",
+            "flags": {},
+            "c": [
+                742,
+                1344,
+                652.545792,
+                1010.67776
+            ],
+            "move": 1,
+            "sense": 1,
+            "door": 0,
+            "ds": 0
+        },
+        {
+            "_id": "vMH67UUwmwMpPOY8",
+            "flags": {},
+            "c": [
+                652.545792,
+                1010.67776,
+                619.36832,
+                887.052288
+            ],
+            "move": 1,
+            "sense": 1,
+            "door": 1,
+            "ds": 0
+        }
+    ],
+    "tokenVision": true,
+    "fogExploration": true,
+    "fogReset": null,
+    "lights": [],
+    "globalLight": false,
+    "darkness": 0,
+    "sounds": [],
+    "templates": [],
+    "notes": [],
+    "drawings": []
+}

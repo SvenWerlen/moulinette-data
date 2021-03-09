@@ -1,0 +1,14 @@
+{
+    "id": "auberge-des-7-rayons-seven-rays-inn",
+    "name": "Auberge des 7 Rayons / Seven Rays Inn",
+    "description": "Maps for Ennemy in Shadows (ie Book 1 of the Imperial Campaign for Warhammer RPG)",
+    "type": "scenes",
+    "source": "Multiple authors|https://gitlab.com/LeRatierBretonnien/wfrp4e-eis-maps",
+    "list": [
+        {
+            "name": "auberge-7-rayons.webp",
+            "url": "https://gitlab.com/LeRatierBretonnien/wfrp4e-eis-maps/-/raw/master/images/scenes/Auberge 7 Rayons.webp",
+            "data": "https://raw.githubusercontent.com/SvenWerlen/moulinette-data/main/scenes/wfrp4e-eis-maps/auberge-des-7-rayons-seven-rays-inn-1.json"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "id": "weissbruck-berebeli-docks",
+    "name": "Weissbruck - Berebeli Docks",
+    "description": "Maps for Ennemy in Shadows (ie Book 1 of the Imperial Campaign for Warhammer RPG)",
+    "type": "scenes",
+    "source": "Multiple authors|https://gitlab.com/LeRatierBretonnien/wfrp4e-eis-maps",
+    "list": [
+        {
+            "name": "bateau-berebeli-weissdorf.webp",
+            "url": "https://gitlab.com/LeRatierBretonnien/wfrp4e-eis-maps/-/raw/master/images/scenes/Bateau Berebeli Weissdorf.webp",
+            "data": "https://raw.githubusercontent.com/SvenWerlen/moulinette-data/main/scenes/wfrp4e-eis-maps/weissbruck-berebeli-docks-1.json"
+        }
+    ]
+}

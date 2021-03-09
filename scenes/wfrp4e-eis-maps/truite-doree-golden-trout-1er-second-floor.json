@@ -1,0 +1,14 @@
+{
+    "id": "truite-doree-golden-trout-1er-second-floor",
+    "name": "Truite Dor\u00e9e/Golden Trout (1er/Second Floor)",
+    "description": "Maps for Ennemy in Shadows (ie Book 1 of the Imperial Campaign for Warhammer RPG)",
+    "type": "scenes",
+    "source": "Multiple authors|https://gitlab.com/LeRatierBretonnien/wfrp4e-eis-maps",
+    "list": [
+        {
+            "name": "the-golden-trout-first-floor.webp",
+            "url": "https://gitlab.com/LeRatierBretonnien/wfrp4e-eis-maps/-/raw/master/images/scenes/The Golden Trout First Floor.webp",
+            "data": "https://raw.githubusercontent.com/SvenWerlen/moulinette-data/main/scenes/wfrp4e-eis-maps/truite-doree-golden-trout-1er-second-floor-1.json"
+        }
+    ]
+}

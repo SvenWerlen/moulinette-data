@@ -1,0 +1,278 @@
+{
+    "_id": "6HHuON4CibsYnbGW",
+    "name": "Ancien Monast\u00e8re (Sous-sol) / Old Monastery (Basement)",
+    "permission": {
+        "default": 0,
+        "KlpQY85kaIy1CjL6": 3
+    },
+    "flags": {},
+    "description": "",
+    "navigation": false,
+    "navOrder": null,
+    "active": false,
+    "initial": null,
+    "width": 1408,
+    "height": 1024,
+    "backgroundColor": "#999999",
+    "tiles": [],
+    "gridType": 1,
+    "grid": 128,
+    "shiftX": 0,
+    "shiftY": 0,
+    "gridColor": "#000000",
+    "gridAlpha": 0.2,
+    "gridDistance": 2,
+    "gridUnits": "yd",
+    "tokens": [],
+    "walls": [
+        {
+            "_id": "lpGXIbnqx2FZs738",
+            "flags": {},
+            "c": [
+                1152,
+                256,
+                384,
+                256
+            ],
+            "move": 1,
+            "sense": 1,
+            "door": 0,
+            "ds": 0
+        },
+        {
+            "_id": "dmrWYzL755lf0Hb4",
+            "flags": {},
+            "c": [
+                384,
+                256,
+                384,
+                1280
+            ],
+            "move": 1,
+            "sense": 1,
+            "door": 0,
+            "ds": 0
+        },
+        {
+            "_id": "oXVEO2RiNiy1kNCQ",
+            "flags": {},
+            "c": [
+                384,
+                1280,
+                1792,
+                1280
+            ],
+            "move": 1,
+            "sense": 1,
+            "door": 0,
+            "ds": 0
+        },
+        {
+            "_id": "gpwlxhIExVzkxTCX",
+            "flags": {},
+            "c": [
+                1792,
+                1280,
+                1792,
+                768
+            ],
+            "move": 1,
+            "sense": 1,
+            "door": 0,
+            "ds": 0
+        },
+        {
+            "_id": "45hmRy6iH7qNf7iO",
+            "flags": {},
+            "c": [
+                1536,
+                768,
+                1792,
+                768
+            ],
+            "move": 1,
+            "sense": 1,
+            "door": 0,
+            "ds": 0
+        },
+        {
+            "_id": "9gkeP9qAU4x9h4ug",
+            "flags": {},
+            "c": [
+                1792,
+                768,
+                1792,
+                256
+            ],
+            "move": 1,
+            "sense": 1,
+            "door": 0,
+            "ds": 0
+        },
+        {
+            "_id": "eR2I4I11vaWhPOVC",
+            "flags": {},
+            "c": [
+                1792,
+                256,
+                1152,
+                256
+            ],
+            "move": 1,
+            "sense": 1,
+            "door": 0,
+            "ds": 0
+        },
+        {
+            "_id": "C8PY3r4cd4wdMQP1",
+            "flags": {},
+            "c": [
+                1152,
+                256,
+                1152,
+                768
+            ],
+            "move": 1,
+            "sense": 1,
+            "door": 0,
+            "ds": 0
+        },
+        {
+            "_id": "9ZKfTofrU1dBTptV",
+            "flags": {},
+            "c": [
+                1152,
+                768,
+                1280,
+                768
+            ],
+            "move": 1,
+            "sense": 1,
+            "door": 0,
+            "ds": 0
+        },
+        {
+            "_id": "UKIZyrB50tw2qjtL",
+            "flags": {},
+            "c": [
+                1280,
+                768,
+                1408,
+                768
+            ],
+            "move": 1,
+            "sense": 1,
+            "door": 1,
+            "ds": 0
+        },
+        {
+            "_id": "aCcxXqEEeXKNZhPG",
+            "flags": {},
+            "c": [
+                1408,
+                768,
+                1536,
+                768
+            ],
+            "move": 1,
+            "sense": 1,
+            "door": 1,
+            "ds": 0
+        }
+    ],
+    "tokenVision": true,
+    "fogExploration": true,
+    "fogReset": null,
+    "lights": [
+        {
+            "_id": "B0u4Qn9CyIKOHWg3",
+            "flags": {},
+            "t": "l",
+            "x": 620,
+            "y": 300,
+            "rotation": 0,
+            "dim": 20,
+            "bright": 10,
+            "angle": 360,
+            "tintColor": "#eccd8b",
+            "tintAlpha": 0.2,
+            "darknessThreshold": 0
+        },
+        {
+            "_id": "mvArAfHYVguVCx0h",
+            "flags": {},
+            "t": "l",
+            "x": 965,
+            "y": 269,
+            "rotation": 0,
+            "dim": 20,
+            "bright": 10,
+            "angle": 360,
+            "tintColor": "#eccd8b",
+            "tintAlpha": 0.2,
+            "darknessThreshold": 0
+        },
+        {
+            "_id": "fwih9KymcfFLenDK",
+            "flags": {},
+            "t": "l",
+            "x": 925,
+            "y": 1231,
+            "rotation": 0,
+            "dim": 20,
+            "bright": 10,
+            "angle": 360,
+            "tintColor": "#eccd8b",
+            "tintAlpha": 0.2,
+            "darknessThreshold": 0
+        },
+        {
+            "_id": "OGYWK6JQ66QI7ndB",
+            "flags": {},
+            "t": "l",
+            "x": 1470,
+            "y": 1230,
+            "rotation": 0,
+            "dim": 20,
+            "bright": 10,
+            "angle": 360,
+            "tintColor": "#eccd8b",
+            "tintAlpha": 0.2,
+            "darknessThreshold": 0
+        },
+        {
+            "_id": "9ELd50vPXvavCTYB",
+            "flags": {},
+            "t": "l",
+            "x": 412,
+            "y": 1110,
+            "rotation": 0,
+            "dim": 20,
+            "bright": 10,
+            "angle": 360,
+            "tintColor": "#eccd8b",
+            "tintAlpha": 0.2,
+            "darknessThreshold": 0
+        },
+        {
+            "_id": "0jzFrEtWOeMQkf09",
+            "flags": {},
+            "t": "l",
+            "x": 1163,
+            "y": 534,
+            "rotation": 0,
+            "dim": 10.54,
+            "bright": 5.27,
+            "angle": 360,
+            "tintColor": "#eccd8b",
+            "tintAlpha": 0.2,
+            "darknessThreshold": 0
+        }
+    ],
+    "globalLight": false,
+    "darkness": 0,
+    "sounds": [],
+    "templates": [],
+    "notes": [],
+    "drawings": []
+}

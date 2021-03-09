@@ -1,0 +1,14 @@
+{
+    "id": "bogenhafen-piques-croisees-sous-sol-crossed-pikes-basement",
+    "name": "Bogenhafen - Piques Crois\u00e9es (sous-sol) / Crossed Pikes (Basement)",
+    "description": "Maps for Ennemy in Shadows (ie Book 1 of the Imperial Campaign for Warhammer RPG)",
+    "type": "scenes",
+    "source": "Multiple authors|https://gitlab.com/LeRatierBretonnien/wfrp4e-eis-maps",
+    "list": [
+        {
+            "name": "bogenhafen-crossed-pikes-basement.webp",
+            "url": "https://gitlab.com/LeRatierBretonnien/wfrp4e-eis-maps/-/raw/master/images/scenes/bogenhafen_crossed_pikes_basement.webp",
+            "data": "https://raw.githubusercontent.com/SvenWerlen/moulinette-data/main/scenes/wfrp4e-eis-maps/bogenhafen-piques-croisees-sous-sol-crossed-pikes-basement-1.json"
+        }
+    ]
+}
