@@ -1,0 +1,14 @@
+{
+    "id": "bobours-hall-of-question",
+    "name": "Hall of Question",
+    "description": "A mystic hall",
+    "type": "scenes",
+    "source": "Bobours@Inkarnate|https://next.inkarnate.com/p/R7wOJa--bobours/maps/OKKr8r--hall-of-question/",
+    "list": [
+        {
+            "name": "HallQuestion.jpg",
+            "url": "https://inkarnate-api-as-production.s3.amazonaws.com/51oj4g0qllvk71uqnasgyg8aoh04",
+            "data": "/main/scenes/bobours/hall-of-question1.json"
+        }
+    ]
+}
