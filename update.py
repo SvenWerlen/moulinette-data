@@ -189,7 +189,6 @@ for root, dirs, files in os.walk(PATH + "/scenes"):
         sourceURL = data["source"].split('|')[1]
         
         thumb = "<img src=\"https://boisdechet.org/moulinette/static/thumbs/%s.webp\" width=\"200\" title=\"%s\"/>" % (data["id"], data["description"])
-        print(thumb)
         
         scenes += "| [%s](%s) | [%s](%s) | %d | %s |\n" % (name, url, source, sourceURL, len(data["list"]), thumb)
         
