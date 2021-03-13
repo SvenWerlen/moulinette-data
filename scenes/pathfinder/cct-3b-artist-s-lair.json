@@ -6,9 +6,10 @@
     "source": "SteelRat@RPGMapShare|http://rpgmapshare.com/piwigo/gallery/index.php?/search/17512",
     "list": [
         {
-            "name": "Inn.jpg",
+            "name": "ArtistLair.png",
+            "convert": "JPEG",
             "url": "http://rpgmapshare.com/piwigo/gallery/action.php?id=6103&part=e&download",
-            "data": "/main/scenes/pathfinder/cct-3b-artist-s-lair.json1.json"
+            "data": "/main/scenes/pathfinder/cct-3b-artist-s-lair1.json"
         }
     ]
 }

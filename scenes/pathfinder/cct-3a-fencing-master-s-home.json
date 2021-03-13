@@ -6,7 +6,8 @@
     "source": "SteelRat@RPGMapShare|http://rpgmapshare.com/piwigo/gallery/picture.php?/341/",
     "list": [
         {
-            "name": "Inn.jpg",
+            "name": "FencingMasterHome.png",
+            "convert": "JPEG",
             "url": "http://rpgmapshare.com/piwigo/gallery/action.php?id=341&part=e&download",
             "data": "/main/scenes/pathfinder/cct-3a-fencing-master-s-home.json1.json"
         }
