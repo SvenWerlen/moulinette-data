@@ -1,0 +1,33 @@
+{
+    "id": "cct-noble-s-palace",
+    "name": "3.D. Noble's Palace",
+    "description": "Exotic Palace",
+    "type": "scenes",
+    "source": "SteelRat@RPGMapShare|http://rpgmapshare.com/piwigo/gallery/picture.php?/73",
+    "list": [
+        {
+            "name": "NoblePalace1.png",
+            "convert": "JPEG",
+            "url": "http://rpgmapshare.com/piwigo/gallery/action.php?id=73&part=e&download",
+            "data": "/main/scenes/pathfinder/cct-3d-noble-s-palace1.json"
+        },
+        {
+            "name": "NoblePalace2.png",
+            "convert": "JPEG",
+            "url": "http://rpgmapshare.com/piwigo/gallery/action.php?id=74&part=e&download",
+            "data": "/main/scenes/pathfinder/cct-3d-noble-s-palace2.json"
+        },
+        {
+            "name": "NoblePalace3.png",
+            "convert": "JPEG",
+            "url": "http://rpgmapshare.com/piwigo/gallery/action.php?id=71&part=e&download",
+            "data": "/main/scenes/pathfinder/cct-3d-noble-s-palace3.json"
+        },
+        {
+            "name": "NoblePalace4.png",
+            "convert": "JPEG",
+            "url": "http://rpgmapshare.com/piwigo/gallery/action.php?id=72&part=e&download",
+            "data": "/main/scenes/pathfinder/cct-3d-noble-s-palace4.json"
+        }
+    ]
+}
