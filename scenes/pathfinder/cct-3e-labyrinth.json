@@ -1,0 +1,14 @@
+{
+    "id": "cct-labyrinth",
+    "name": "3.E. Labyrinth",
+    "description": "A Labyrinth",
+    "type": "scenes",
+    "source": "SteelRat@RPGMapShare|http://rpgmapshare.com/piwigo/gallery/picture.php?/6102",
+    "list": [
+        {
+            "name": "Labyrinth2.jpg",
+            "url": "http://rpgmapshare.com/piwigo/gallery/action.php?id=6102&part=e&download",
+            "data": "/main/scenes/pathfinder/cct-3e-labyrinth2.json"
+        }
+    ]
+}
