@@ -1,0 +1,33 @@
+{
+    "id": "pf2-french-vovf",
+    "name": "Pathfinder 2 (vo/vf)",
+    "lang": "fr",
+    "system": "pf2e",
+    "description": "Traductions francophones (noms au format \"nom en (nom fr)­\" et description fr)",
+    "type": "babele-translation",
+    "source": "pathfinder-fr|https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/tree/master/babele-alt/vo-vf/fr",
+    "list": [
+        { "url": "https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/raw/master/babele-alt/vo-vf/fr/pf2e.actionspf2e.json" },
+        { "url": "https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/raw/master/babele-alt/vo-vf/fr/pf2e.gmg-srd.json" },
+        { "url": "https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/raw/master/babele-alt/vo-vf/fr/pf2e.pathfinder-bestiary.json" },
+        { "url": "https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/raw/master/babele-alt/vo-vf/fr/pf2e.backgrounds.json" },
+        { "url": "https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/raw/master/babele-alt/vo-vf/fr/pf2e.pathfinder-bestiary-2.json" },
+        { "url": "https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/raw/master/babele-alt/vo-vf/fr/pf2e.feats-srd.json" },
+        { "url": "https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/raw/master/babele-alt/vo-vf/fr/pf2e.familiar-abilities.json" },
+        { "url": "https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/raw/master/babele-alt/vo-vf/fr/pf2e.classfeatures.json" },
+        { "url": "https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/raw/master/babele-alt/vo-vf/fr/pf2e.ancestries.json" },
+        { "url": "https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/raw/master/babele-alt/vo-vf/fr/pf2e.ancestryfeatures.json" },
+        { "url": "https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/raw/master/babele-alt/vo-vf/fr/pf2e.actionspf2e.json" },
+        { "url": "https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/raw/master/babele-alt/vo-vf/fr/pf2e.boons-and-curses.json" },
+        { "url": "https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/raw/master/babele-alt/vo-vf/fr/pf2e.bestiary-ability-glossary-srd.json" },
+        { "url": "https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/raw/master/babele-alt/vo-vf/fr/pf2e.conditionspf2e.json" },
+        { "url": "https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/raw/master/babele-alt/vo-vf/fr/pf2e.spells-srd.json" },
+        { "url": "https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/raw/master/babele-alt/vo-vf/fr/pf2e.hazards.json" },
+        { "url": "https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/raw/master/babele-alt/vo-vf/fr/pf2e.conditionitems.json" },
+        { "url": "https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/raw/master/babele-alt/vo-vf/fr/pf2e.archetypes.json" },
+        { "url": "https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/raw/master/babele-alt/vo-vf/fr/pf2e.spell-effects.json" },
+        { "url": "https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/raw/master/babele-alt/vo-vf/fr/pf2e.equipment-srd.json" },
+        { "url": "https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/raw/master/babele-alt/vo-vf/fr/pf2e.pathfinder-society-boons.json" },
+        { "url": "https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/raw/master/babele-alt/vo-vf/fr/pf2e.classes.json" }
+    ]
+}

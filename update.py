@@ -11,6 +11,7 @@ frames = ""
 playlists = ""
 images = ""
 scenes = ""
+transl = ""
 
 SOURCES = { 
   "round-grey.png": "[VTTAssets](https://github.com/VTTAssets/vtta-tokenizer/tree/master/img)",
@@ -196,4 +197,29 @@ MARKDOWN_BUNDLE_SCE = MARKDOWN_BUNDLE.replace("{{LIST}}", scenes).replace("{{TYP
 
 with open(PATH + "/scenes/README.md", "w") as f:
   f.write(MARKDOWN_BUNDLE_SCE)
+  f.close()
+
+
+##
+## Translations
+##
+for root, dirs, files in os.walk(PATH + "/translations"):
+  for file in sorted(files): 
+    if file.endswith('.json'): 
+      path = os.path.join(root, file)
+      with open(path) as f:
+        data = json.loads(f.read())
+        name = data["name"]
+        # ./translations/babele/pf2-fr_vovf.json => babele/pf2-fr_vovf.json
+        url = path.split("/translations/")[1]
+        # pathfinder-fr|https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/tree/master/babele-alt/vo-vf/fr
+        source = data["source"].split('|')[0]
+        sourceURL = data["source"].split('|')[1]
+        
+        transl += "| [%s](%s) | [%s](%s) | %d | %s |\n" % (name, url, source, sourceURL, len(data["list"]), data['description'])
+        
+MARKDOWN_BUNDLE_TSL = MARKDOWN_BUNDLE.replace("{{LIST}}", transl).replace("{{TYPE}}", "transl").replace("{{INFOS}}", "Use Moulinette for Foundry VTT to manage your translations.")
+
+with open(PATH + "/translations/README.md", "w") as f:
+  f.write(MARKDOWN_BUNDLE_TSL)
   f.close()
