@@ -1,0 +1,21 @@
+{
+    "id": "cct-manor",
+    "name": "2.E. Manor",
+    "description": "Manor",
+    "type": "scenes",
+    "source": "SteelRat@RPGMapShare|http://rpgmapshare.com/piwigo/gallery/picture.php?/92/search/82",
+    "list": [
+        {
+            "name": "Manor1.png",
+            "convert": "JPEG",
+            "url": "http://rpgmapshare.com/piwigo/gallery/action.php?id=92&part=e&download",
+            "data": "/main/scenes/pathfinder/cct-2e-manor1.json"
+        },
+        {
+            "name": "Manor2.png",
+            "convert": "JPEG",
+            "url": "http://rpgmapshare.com/piwigo/gallery/action.php?id=93&part=e&download",
+            "data": "/main/scenes/pathfinder/cct-2e-manor2.json"
+        }
+    ]
+}

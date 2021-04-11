@@ -1,0 +1,15 @@
+{
+    "id": "cct-alley",
+    "name": "2.D. Alley and Shop",
+    "description": "Alley and nearby shop",
+    "type": "scenes",
+    "source": "SteelRat@RPGMapShare|http://rpgmapshare.com/piwigo/gallery/picture.php?/173/search/82",
+    "list": [
+        {
+            "name": "Alley_1.png",
+            "convert": "JPEG",
+            "url": "http://rpgmapshare.com/piwigo/gallery/action.php?id=173&part=e&download",
+            "data": "/main/scenes/pathfinder/cct-2d-alley1.json"
+        }
+    ]
+}

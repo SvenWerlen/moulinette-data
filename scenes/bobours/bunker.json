@@ -1,0 +1,14 @@
+{
+    "id": "bobours-bunker",
+    "name": "Bunker",
+    "description": "A jungle bunker",
+    "type": "scenes",
+    "source": "Bobours@Inkarnate|https://next.inkarnate.com/p/R7wOJa--bobours/maps/DlXLyl--bunker/",
+    "list": [
+        {
+            "name": "Bunker.jpg",
+            "url": "https://inkarnate-api-as-production.s3.amazonaws.com/d8cwxflzhwu52q9f4u2z7gi42nn9",
+            "data": "/main/scenes/bobours/bunker1.json"
+        }
+    ]
+}

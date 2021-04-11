@@ -1,0 +1,14 @@
+{
+    "id": "bobours-highway-crash",
+    "name": "Highway Crash",
+    "description": "Car crashed in a 'post apo style'",
+    "type": "scenes",
+    "source": "Bobours@Inkarnate|https://inkarnate.com/m/vol9OL--highway-crash/",
+    "list": [
+        {
+            "name": "HighwayCrash.jpg",
+            "url": "https://inkarnate-api-as-production.s3.amazonaws.com/jp936pqjrm6luwgl5p68e17feh1b",
+            "data": "/main/scenes/bobours/highway-crash1.json"
+        }
+    ]
+}

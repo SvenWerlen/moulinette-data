@@ -1,0 +1,14 @@
+{
+    "id": "bobours-noble-house",
+    "name": "Noble House",
+    "description": "A noble house",
+    "type": "scenes",
+    "source": "Bobours@Inkarnate|https://next.inkarnate.com/p/R7wOJa--bobours/maps/BQpPqL--niederstadt-haus/",
+    "list": [
+        {
+            "name": "NobleHouse.jpg",
+            "url": "https://inkarnate-api-as-production.s3.amazonaws.com/vulihhlsqb5nwp0qtk2d8rde72pm",
+            "data": "/main/scenes/bobours/noble-house1.json"
+        }
+    ]
+}

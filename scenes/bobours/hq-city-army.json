@@ -1,0 +1,14 @@
+{
+    "id": "bobours-hq-city-army",
+    "name": "HQ City Army",
+    "description": "HQ under alert !",
+    "type": "scenes",
+    "source": "Bobours@Inkarnate|https://inkarnate.com/m/ndwJqD--modern-city-fortification/",
+    "list": [
+        {
+            "name": "HQCityArmy.jpg",
+            "url": "https://inkarnate-api-as-production.s3.amazonaws.com/cdp8w2zru3lpgo5uv05joyo07l4m",
+            "data": "/main/scenes/bobours/hq-city-army1.json"
+        }
+    ]
+}

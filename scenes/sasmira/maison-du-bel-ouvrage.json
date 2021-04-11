@@ -1,0 +1,19 @@
+{
+    "id": "sasmira-house",
+    "name": "House of Beautiful Work",
+    "description": "House and basement with demonic circle ",
+    "type": "scenes",
+    "source": "Sasmira@Dungeondraft|https://discord.gg/pPSDNJk",
+    "list": [
+        {
+            "name": "MaisonBelOuvrage1.jpg",
+            "url": "https://boisdechet.org/moulinette/scenes/sasmira/maison-belouvrage1.webp",
+            "data": "/main/scenes/sasmira/maison-du-bel-ouvrage1.json"
+        },
+        {
+            "name": "MaisonBelOuvrage2.jpg",
+            "url": "https://boisdechet.org/moulinette/scenes/sasmira/maison-belouvrage2.webp",
+            "data": "/main/scenes/sasmira/maison-du-bel-ouvrage-sous-sol.json"
+        }
+    ]
+}

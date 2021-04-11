@@ -1,0 +1,99 @@
+{
+    "name": "House of Beautiful Work",
+    "permission": {
+        "default": 0,
+        "6DJRozPnkV9h0niS": 3
+    },
+    "sort": 100001,
+    "flags": {},
+    "description": "",
+    "navigation": true,
+    "navOrder": 100001,
+    "active": false,
+    "initial": null,
+    "width": 8960,
+    "height": 5120,
+    "padding": 0,
+    "backgroundColor": "#999999",
+    "tiles": [],
+    "gridType": 1,
+    "grid": 256,
+    "shiftX": 0,
+    "shiftY": 0,
+    "gridColor": "#000000",
+    "gridAlpha": 0.2,
+    "gridDistance": 5,
+    "gridUnits": "ft",
+    "tokens": [],
+    "walls": [
+        {
+            "_id": "WSHHQqxl1RGQAIE2",
+            "flags": {},
+            "c": [
+                3096.300544,
+                2740.603392,
+                3096.300544,
+                2996.603392
+            ],
+            "move": 1,
+            "sense": 1,
+            "door": 1,
+            "ds": 0
+        },
+        {
+            "_id": "LipMkWwiVnfhOCf3",
+            "flags": {},
+            "c": [
+                3095.100672,
+                2303.379456,
+                3095.100672,
+                2559.379456
+            ],
+            "move": 1,
+            "sense": 1,
+            "door": 1,
+            "ds": 0
+        },
+        {
+            "_id": "TKxsA8PAW0jbI1Ri",
+            "flags": {},
+            "c": [
+                4682.300672,
+                3287.379456,
+                4426.300672,
+                3287.379456
+            ],
+            "move": 1,
+            "sense": 1,
+            "door": 1,
+            "ds": 0
+        },
+        {
+            "_id": "yI0198nb85ZuzfJG",
+            "flags": {},
+            "c": [
+                4882.153728,
+                1586.285056,
+                4626.153728,
+                1586.285056
+            ],
+            "move": 1,
+            "sense": 1,
+            "door": 1,
+            "ds": 0
+        }
+    ],
+    "tokenVision": true,
+    "fogExploration": true,
+    "lights": [],
+    "globalLight": false,
+    "globalLightThreshold": null,
+    "darkness": 0,
+    "sounds": [],
+    "templates": [],
+    "notes": [],
+    "drawings": [],
+    "_id": "AEd6r0uHXe9nqzbT",
+    "size": null,
+    "navName": ""
+}

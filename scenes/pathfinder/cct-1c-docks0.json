@@ -1,0 +1,53 @@
+{
+    "name": "1.C. Docks and Ships",
+    "sort": 100001,
+    "flags": {
+        "exportSource": {
+            "world": "test",
+            "system": "pf1",
+            "coreVersion": "0.7.9",
+            "systemVersion": "0.77.16"
+        }
+    },
+    "description": "",
+    "navigation": true,
+    "navOrder": 100001,
+    "active": true,
+    "initial": {
+        "x": 680,
+        "y": 644,
+        "scale": 1.24
+    },
+    "width": 750,
+    "height": 742,
+    "padding": 0.25,
+    "backgroundColor": "#000000",
+    "tiles": [],
+    "gridType": 0,
+    "grid": 50,
+    "shiftX": 0,
+    "shiftY": 0,
+    "gridColor": "#000000",
+    "gridAlpha": 0,
+    "gridDistance": 10,
+    "gridUnits": "ft",
+    "tokens": [],
+    "walls": [],
+    "tokenVision": true,
+    "fogExploration": true,
+    "lights": [],
+    "globalLight": true,
+    "globalLightThreshold": null,
+    "darkness": 0,
+    "sounds": [],
+    "templates": [],
+    "notes": [],
+    "drawings": [],
+    "_id": "6y1a2uc9JC4Hx70H",
+    "size": null,
+    "navName": "",
+    "hasGlobalThreshold": false,
+    "journal": "",
+    "playlist": "",
+    "weather": ""
+}

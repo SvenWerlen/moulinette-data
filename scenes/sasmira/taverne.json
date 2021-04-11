@@ -1,0 +1,14 @@
+{
+    "id": "sasmira-tavern",
+    "name": "Tavern",
+    "description": "A Tavern in the woods",
+    "type": "scenes",
+    "source": "Sasmira@Dungeondraft|https://discord.gg/pPSDNJk",
+    "list": [
+        {
+            "name": "Tavern.webp",
+            "url": "https://boisdechet.org/moulinette/scenes/sasmira/tavern.webp",
+            "data": "/main/scenes/sasmira/taverne1.json"
+        }
+    ]
+}

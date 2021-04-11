@@ -1,0 +1,14 @@
+{
+    "id": "bobours-toll",
+    "name": "Toll",
+    "description": "A toll",
+    "type": "scenes",
+    "source": "Bobours@Inkarnate|https://next.inkarnate.com/p/R7wOJa--bobours/maps/Bbg06G--toll-ground-floor/",
+    "list": [
+        {
+            "name": "Toll.jpg",
+            "url": "https://inkarnate-api-as-production.s3.amazonaws.com/n2ibtcigdovt05hm9za6p1w1h4zs",
+            "data": "/main/scenes/bobours/toll1.json"
+        }
+    ]
+}

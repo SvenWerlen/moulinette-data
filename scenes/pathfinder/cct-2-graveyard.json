@@ -1,0 +1,154 @@
+{
+    "name": "2. Graveyard",
+    "sort": 100001,
+    "flags": {
+        "exportSource": {
+            "world": "test",
+            "system": "pf1",
+            "coreVersion": "0.7.9",
+            "systemVersion": "0.77.16"
+        }
+    },
+    "description": "",
+    "navigation": false,
+    "navOrder": 100001,
+    "navName": "",
+    "active": false,
+    "initial": {
+        "x": 1989,
+        "y": 1340,
+        "scale": 0.63
+    },
+    "width": 2499,
+    "height": 1700,
+    "padding": 0.25,
+    "backgroundColor": "#000000",
+    "tiles": [],
+    "gridType": 1,
+    "grid": 100,
+    "shiftX": 0,
+    "shiftY": 0,
+    "gridColor": "#000000",
+    "gridAlpha": 0,
+    "gridDistance": 5,
+    "gridUnits": "ft",
+    "tokens": [],
+    "walls": [
+        {
+            "_id": "HgoVNdg6Lk5SvWuS",
+            "flags": {},
+            "c": [
+                1150,
+                875,
+                1119,
+                894
+            ],
+            "move": 1,
+            "sense": 2,
+            "door": 0,
+            "ds": 0
+        },
+        {
+            "_id": "poAKKCcyaIPWKbs1",
+            "flags": {},
+            "c": [
+                1119,
+                894,
+                1112,
+                925
+            ],
+            "move": 1,
+            "sense": 2,
+            "door": 0,
+            "ds": 0,
+            "locked": false
+        },
+        {
+            "_id": "PnbcwulmPzJr5xeT",
+            "flags": {},
+            "c": [
+                1112,
+                925,
+                1137,
+                950
+            ],
+            "move": 1,
+            "sense": 2,
+            "door": 0,
+            "ds": 0
+        },
+        {
+            "_id": "ptGlliCYy8nOjb3Y",
+            "flags": {},
+            "c": [
+                1137,
+                950,
+                1175,
+                950
+            ],
+            "move": 1,
+            "sense": 2,
+            "door": 0,
+            "ds": 0
+        },
+        {
+            "_id": "TsdAQEkdwUxnOrV6",
+            "flags": {},
+            "c": [
+                1175,
+                950,
+                1200,
+                912
+            ],
+            "move": 1,
+            "sense": 2,
+            "door": 0,
+            "ds": 0
+        },
+        {
+            "_id": "bs8uSAejMUvGmx4U",
+            "flags": {},
+            "c": [
+                1200,
+                912,
+                1175,
+                887
+            ],
+            "move": 1,
+            "sense": 2,
+            "door": 0,
+            "ds": 0
+        },
+        {
+            "_id": "c9yMjCvclLGPtO1G",
+            "flags": {},
+            "c": [
+                1175,
+                887,
+                1150,
+                875
+            ],
+            "move": 1,
+            "sense": 2,
+            "door": 0,
+            "ds": 0
+        }
+    ],
+    "tokenVision": true,
+    "fogExploration": true,
+    "fogReset": null,
+    "lights": [],
+    "globalLight": true,
+    "globalLightThreshold": null,
+    "darkness": 0,
+    "playlist": "",
+    "sounds": [],
+    "templates": [],
+    "journal": "",
+    "notes": [],
+    "weather": "",
+    "drawings": [],
+    "_id": "oyHuz6OzjgWV2j8L",
+    "size": null,
+    "hasGlobalThreshold": false
+}

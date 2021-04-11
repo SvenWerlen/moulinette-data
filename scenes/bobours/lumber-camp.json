@@ -1,0 +1,14 @@
+{
+    "id": "bobours-lumber-camp",
+    "name": "Lumber Camp",
+    "description": "A lumber camp",
+    "type": "scenes",
+    "source": "Bobours@Inkarnate|https://next.inkarnate.com/p/R7wOJa--bobours/maps/Yy8eRr--lumber-camp/",
+    "list": [
+        {
+            "name": "LumberCamp.jpg",
+            "url": "https://inkarnate-api-as-production.s3.amazonaws.com/r7ja3mak5fsb1o2k36h16tulocfl",
+            "data": "/main/scenes/bobours/lumber-camp1.json"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "id": "cct-sewer-den",
+    "name": "2.B. Sewer Den",
+    "description": "Sewer Den",
+    "type": "scenes",
+    "source": "SteelRat@RPGMapShare|http://rpgmapshare.com/piwigo/gallery/picture.php?/6503/search/1044",
+    "list": [
+        {
+            "name": "Sewer_Den_1.png",
+            "convert": "JPEG",
+            "url": "http://rpgmapshare.com/piwigo/gallery/action.php?id=6503&part=e&download",
+            "data": "/main/scenes/pathfinder/cct-2b-sewer-den1.json"
+        }
+    ]
+}

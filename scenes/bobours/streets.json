@@ -1,0 +1,14 @@
+{
+    "id": "bobours-streets",
+    "name": "Streets",
+    "description": "Streets",
+    "type": "scenes",
+    "source": "Bobours@Inkarnate|https://next.inkarnate.com/p/R7wOJa--bobours/maps/BXnGjq--despairs-street/",
+    "list": [
+        {
+            "name": "Streets.jpg",
+            "url": "https://inkarnate-api-as-production.s3.amazonaws.com/p7znquguwlx0e1pmqes9m2umjh3c",
+            "data": "/main/scenes/bobours/streets1.json"
+        }
+    ]
+}

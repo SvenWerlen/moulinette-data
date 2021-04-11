@@ -1,0 +1,187 @@
+{
+    "name": "Tavern (cellar)",
+    "permission": {
+        "default": 0,
+        "6DJRozPnkV9h0niS": 3
+    },
+    "sort": 100001,
+    "flags": {},
+    "description": "",
+    "navigation": true,
+    "navOrder": 100001,
+    "active": true,
+    "initial": null,
+    "width": 6400,
+    "height": 5888,
+    "padding": 0,
+    "backgroundColor": "#999999",
+    "tiles": [],
+    "gridType": 1,
+    "grid": 256,
+    "shiftX": 0,
+    "shiftY": 0,
+    "gridColor": "#000000",
+    "gridAlpha": 0.2,
+    "gridDistance": 5,
+    "gridUnits": "ft",
+    "tokens": [],
+    "walls": [
+        {
+            "_id": "FcjsZ5EaVdIyXItK",
+            "flags": {},
+            "c": [
+                2304,
+                1536,
+                2304,
+                512
+            ],
+            "move": 1,
+            "sense": 1,
+            "door": 0,
+            "ds": 0
+        },
+        {
+            "_id": "45DagBHdYnqdGHWV",
+            "flags": {},
+            "c": [
+                3328,
+                1536,
+                2816,
+                1536
+            ],
+            "move": 1,
+            "sense": 1,
+            "door": 0,
+            "ds": 0
+        },
+        {
+            "_id": "30N3Xq6P6pCZlV4j",
+            "flags": {},
+            "c": [
+                3328,
+                2048,
+                5888,
+                2048
+            ],
+            "move": 1,
+            "sense": 1,
+            "door": 0,
+            "ds": 0
+        },
+        {
+            "_id": "NZgJMfJwwtTbjDXb",
+            "flags": {},
+            "c": [
+                5888,
+                2048,
+                5888,
+                5376
+            ],
+            "move": 1,
+            "sense": 1,
+            "door": 0,
+            "ds": 0
+        },
+        {
+            "_id": "Mf5AGe2WAHe7MP4K",
+            "flags": {},
+            "c": [
+                5888,
+                5376,
+                512,
+                5376
+            ],
+            "move": 1,
+            "sense": 1,
+            "door": 0,
+            "ds": 0
+        },
+        {
+            "_id": "8cwB7YDOCBqrZ4KA",
+            "flags": {},
+            "c": [
+                512,
+                5376,
+                512,
+                512
+            ],
+            "move": 1,
+            "sense": 1,
+            "door": 0,
+            "ds": 0
+        },
+        {
+            "_id": "iP8I0Ijw2478xR4C",
+            "flags": {},
+            "c": [
+                512,
+                512,
+                3328,
+                512
+            ],
+            "move": 1,
+            "sense": 1,
+            "door": 0,
+            "ds": 0
+        },
+        {
+            "_id": "C49PNIf13PaiEMJp",
+            "flags": {},
+            "c": [
+                3328,
+                512,
+                3328,
+                2048
+            ],
+            "move": 1,
+            "sense": 1,
+            "door": 0,
+            "ds": 0
+        },
+        {
+            "_id": "KzThh0bqcV8lCA0P",
+            "flags": {},
+            "c": [
+                2816,
+                1536,
+                2560,
+                1536
+            ],
+            "move": 1,
+            "sense": 1,
+            "door": 1,
+            "ds": 0
+        },
+        {
+            "_id": "QFGO8ZVOVGXuoatp",
+            "flags": {},
+            "c": [
+                2560,
+                1536,
+                2304,
+                1536
+            ],
+            "move": 1,
+            "sense": 1,
+            "door": 1,
+            "ds": 0
+        }
+    ],
+    "tokenVision": true,
+    "fogExploration": true,
+    "lights": [],
+    "globalLight": false,
+    "globalLightThreshold": null,
+    "darkness": 0,
+    "sounds": [],
+    "templates": [],
+    "notes": [],
+    "drawings": [],
+    "_id": "WbDPtewdxY3vx3b3",
+    "size": null,
+    "navName": "",
+    "hasGlobalThreshold": false,
+    "journal": "",
+    "playlist": "",
+    "weather": ""
+}

@@ -1,0 +1,11 @@
+{
+    "id": "fvtt-core-french",
+    "name": "Foundry (core)",
+    "lang": "fr",
+    "description": "Traductions francophones pour Foundry VTT (core)",
+    "type": "core-translation",
+    "source": "Baktov Sugar|https://gitlab.com/baktov.sugar/foundryvtt-lang-fr-fr/-/tree/master",
+    "list": [
+        { "url": "https://gitlab.com/baktov.sugar/foundryvtt-lang-fr-fr/-/raw/master/fr-FR/fr.json" }
+    ]
+}

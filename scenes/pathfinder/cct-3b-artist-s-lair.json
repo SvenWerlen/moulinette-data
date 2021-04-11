@@ -1,0 +1,15 @@
+{
+    "id": "cct-artist-s-lair",
+    "name": "3.B. Artist's Lair",
+    "description": "A poor house near river",
+    "type": "scenes",
+    "source": "SteelRat@RPGMapShare|http://rpgmapshare.com/piwigo/gallery/index.php?/search/17512",
+    "list": [
+        {
+            "name": "ArtistLair.png",
+            "convert": "JPEG",
+            "url": "http://rpgmapshare.com/piwigo/gallery/action.php?id=6103&part=e&download",
+            "data": "/main/scenes/pathfinder/cct-3b-artist-s-lair1.json"
+        }
+    ]
+}

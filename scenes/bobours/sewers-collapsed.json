@@ -1,0 +1,14 @@
+{
+    "id": "bobours-sewers-collapsed",
+    "name": "Collapsed Sewers",
+    "description": "Collapsed sewers",
+    "type": "scenes",
+    "source": "Bobours@Inkarnate|https://next.inkarnate.com/p/R7wOJa--bobours/maps/4WoRdy--sewer-destroyed/",
+    "list": [
+        {
+            "name": "SewersCollapsed.jpg",
+            "url": "https://inkarnate-api-as-production.s3.amazonaws.com/mlj09g7okov9kc95c5s276uv6eun",
+            "data": "/main/scenes/bobours/sewers-collapsed1.json"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "id": "cct-docks",
+    "name": "1.C. Docks and Ships",
+    "description": "Docks and maps of a ship",
+    "type": "scenes",
+    "source": "SteelRat@RPGMapShare|http://rpgmapshare.com/piwigo/gallery/picture.php?/126/search/82",
+    "list": [
+        {
+            "name": "Docks-Ship_1.png",
+            "convert": "JPEG",
+            "url": "http://rpgmapshare.com/piwigo/gallery/action.php?id=125&part=e&download",
+            "data": "/main/scenes/pathfinder/cct-1c-docks1.json"
+        },
+        {
+            "name": "Docks-Ship_2.png",
+            "convert": "JPEG",
+            "url": "http://rpgmapshare.com/piwigo/gallery/action.php?id=126&part=e&download",
+            "data": "/main/scenes/pathfinder/cct-1c-docks2.json"
+        },
+        {
+            "name": "Docks-Ship_3.png",
+            "convert": "JPEG",
+            "url": "http://rpgmapshare.com/piwigo/gallery/action.php?id=127&part=e&download",
+            "data": "/main/scenes/pathfinder/cct-1c-docks3.json"
+        }
+    ]
+}

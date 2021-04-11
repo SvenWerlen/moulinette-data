@@ -1,0 +1,20 @@
+{
+    "id": "cct-other-encounters",
+    "name": "2. Graveyard and Guardpost",
+    "description": "A graveyard and a guardpost",
+    "type": "scenes",
+    "source": "SteelRat@RPGMapShare|http://rpgmapshare.com/piwigo/gallery/picture.php?/174/search/82",
+    "list": [
+        {
+            "name": "Graveyard.png",
+            "convert": "JPEG",
+            "url": "http://rpgmapshare.com/piwigo/gallery/action.php?id=174&part=e&download",
+            "data": "/main/scenes/pathfinder/cct-2-graveyard.json"
+        },
+        {
+            "name": "GuardPost.png",
+            "url": "http://rpgmapshare.com/piwigo/gallery/action.php?id=176&part=e&download",
+            "data": "/main/scenes/pathfinder/cct-2-guardpost.json"
+        }
+    ]
+}

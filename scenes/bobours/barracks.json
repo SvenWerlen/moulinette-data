@@ -1,0 +1,14 @@
+{
+    "id": "bobours-barracks",
+    "name": "Barracks",
+    "description": "Barracks",
+    "type": "scenes",
+    "source": "Bobours@Inkarnate|https://next.inkarnate.com/p/R7wOJa--bobours/maps/41rA8j--barrack/",
+    "list": [
+        {
+            "name": "Barracks.jpg",
+            "url": "https://inkarnate-api-as-production.s3.amazonaws.com/vcgjjsh99bswlkt1646vqy8oumdj",
+            "data": "/main/scenes/bobours/barracks1.json"
+        }
+    ]
+}

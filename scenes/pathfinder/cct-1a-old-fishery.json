@@ -1,0 +1,21 @@
+{
+    "id": "cct-old-fishery",
+    "name": "1.A. Old Fishery",
+    "description": "An old fishery",
+    "type": "scenes",
+    "source": "SteelRat@RPGMapShare|http://rpgmapshare.com/piwigo/gallery/picture.php?/6466/search/330",
+    "list": [
+        {
+            "name": "The_Old_Fishery.png",
+            "convert": "JPEG",
+            "url": "http://rpgmapshare.com/piwigo/gallery/action.php?id=6466&part=e&download",
+            "data": "/main/scenes/pathfinder/cct-1a-old-fishery1.json"
+        },
+        {
+            "name": "The_Old_Fishery_2.png",
+            "convert": "JPEG",
+            "url": "http://rpgmapshare.com/piwigo/gallery/action.php?id=6467&part=e&download",
+            "data": "/main/scenes/pathfinder/cct-1a-old-fishery2.json"
+        }
+    ]
+}

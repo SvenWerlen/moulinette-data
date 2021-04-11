@@ -1,0 +1,12 @@
+{
+    "id": "pf2-core-french",
+    "name": "Pathfinder 2 (système)",
+    "lang": "fr",
+    "system": "pf2e",
+    "description": "Traductions francophones du système pf2e",
+    "type": "core-translation",
+    "source": "pathfinder-fr|https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2e-lang-fr",
+    "list": [
+        { "url": "https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2e-lang-fr/-/raw/master/fr.json" }
+    ]
+}

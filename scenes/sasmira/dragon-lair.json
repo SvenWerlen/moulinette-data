@@ -1,0 +1,14 @@
+{
+    "id": "sasmira-dragon-lair",
+    "name": "Dragon Lair",
+    "description": "A dwarf forge, a dragon's nest",
+    "type": "scenes",
+    "source": "Sasmira@Dungeondraft|https://discord.gg/pPSDNJk",
+    "list": [
+        {
+            "name": "DragonLair.webp",
+            "url": "https://boisdechet.org/moulinette/scenes/sasmira/dragon-lair.webp",
+            "data": "/main/scenes/sasmira/dragon-lair1.json"
+        }
+    ]
+}

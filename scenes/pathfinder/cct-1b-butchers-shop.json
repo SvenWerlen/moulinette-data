@@ -1,0 +1,15 @@
+{
+    "id": "cct-butchers-shop",
+    "name": "1.B. Butcher's shop",
+    "description": "A butcher's shop",
+    "type": "scenes",
+    "source": "SteelRat@RPGMapShare|http://rpgmapshare.com/piwigo/gallery/picture.php?/65/search/82",
+    "list": [
+        {
+            "name": "Butchers-shop.png",
+            "convert": "JPEG",
+            "url": "http://rpgmapshare.com/piwigo/gallery/action.php?id=65&part=e&download",
+            "data": "/main/scenes/pathfinder/cct-1b-butchers-shop1.json"
+        }
+    ]
+}

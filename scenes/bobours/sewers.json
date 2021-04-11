@@ -1,0 +1,14 @@
+{
+    "id": "bobours-sewers",
+    "name": "Sewers",
+    "description": "Sewers",
+    "type": "scenes",
+    "source": "Bobours@Inkarnate|https://next.inkarnate.com/p/R7wOJa--bobours/maps/BvMZDA--sewer/",
+    "list": [
+        {
+            "name": "Sewers.jpg",
+            "url": "https://inkarnate-api-as-production.s3.amazonaws.com/l6rwcvxka9m0jod7qoqcjola74at",
+            "data": "/main/scenes/bobours/sewers1.json"
+        }
+    ]
+}

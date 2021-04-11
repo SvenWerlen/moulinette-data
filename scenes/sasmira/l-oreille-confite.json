@@ -1,0 +1,19 @@
+{
+    "id": "sasmira-oreille-confite",
+    "name": "Tavern \"L'Oreille Confite\"",
+    "description": "A low-rise tavern with its cellar",
+    "type": "scenes",
+    "source": "Sasmira@Dungeondraft|https://discord.gg/pPSDNJk",
+    "list": [
+        {
+            "name": "Tavern2a.webp",
+            "url": "https://boisdechet.org/moulinette/scenes/sasmira/tavern2a.webp",
+            "data": "/main/scenes/sasmira/l-oreille-confite1.json"
+        },
+        {
+            "name": "Tavern2b.webp",
+            "url": "https://boisdechet.org/moulinette/scenes/sasmira/tavern2b.webp",
+            "data": "/main/scenes/sasmira/l-oreille-confite-sous-sol.json"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "id": "bobours-3-plumes",
+    "name": "Inn \"Les 3 plumes\"",
+    "description": "An Inn",
+    "type": "scenes",
+    "source": "Bobours@Inkarnate|https://next.inkarnate.com/p/R7wOJa--bobours/maps/X0AroO--les-3-plumes/",
+    "list": [
+        {
+            "name": "Inn.jpg",
+            "url": "https://inkarnate-api-as-production.s3.amazonaws.com/jj34mggnf1ev21wnt3o7kzut8vi6",
+            "data": "/main/scenes/bobours/les-3-plumes1.json"
+        }
+    ]
+}

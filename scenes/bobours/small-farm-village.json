@@ -1,0 +1,14 @@
+{
+    "id": "bobours-small-farm-village",
+    "name": "Small Farm Village",
+    "description": "A small farm village",
+    "type": "scenes",
+    "source": "Bobours@Inkarnate|https://next.inkarnate.com/p/R7wOJa--bobours/maps/BgeexG--village-the-last-hope/",
+    "list": [
+        {
+            "name": "Toll.jpg",
+            "url": "https://inkarnate-api-as-production.s3.amazonaws.com/4y2wsfhg49raq5lfyikvc0klaf1a",
+            "data": "/main/scenes/bobours/small-farm-village1.json"
+        }
+    ]
+}
