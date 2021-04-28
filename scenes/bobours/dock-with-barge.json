@@ -1,0 +1,14 @@
+{
+    "id": "dock-with-barge",
+    "name": "Dock with barge",
+    "description": "Post apo map",
+    "type": "scenes",
+    "source": "Bobours@inkarnate|https://inkarnate.com/m/3jJ01D--dock/",
+    "list": [
+        {
+            "name": "Dock.jpeg",
+            "url": "https://inkarnate-api-as-production.s3.amazonaws.com/fzmyn17rxm0020jcw2gra629btvm",
+            "data": "/main/scenes/bobours/dock-with-barge1.json"
+        }
+    ]
+}
