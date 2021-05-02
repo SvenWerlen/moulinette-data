@@ -1,0 +1,14 @@
+{
+    "id": "gas-station-apo-",
+    "name": "Gas station (Apo)",
+    "description": "It will be dangerous ;)",
+    "type": "scenes",
+    "source": "Bobours@inkarnate|https://next.inkarnate.com/p/R7wOJa--bobours",
+    "list": [
+        {
+            "name": "GasStationApo.jpg",
+            "url": "https://inkarnate-api-as-production.s3.amazonaws.com/0nkxpgfeym0sonp2vp4qiinazxky",
+            "data": "/main/scenes/bobours/gas-station-apo-1.json"
+        }
+    ]
+}

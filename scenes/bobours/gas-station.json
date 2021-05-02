@@ -1,0 +1,14 @@
+{
+    "id": "gas-station",
+    "name": "Gas station",
+    "description": "Modern Gas station",
+    "type": "scenes",
+    "source": "Bobours@inkarnate|https://next.inkarnate.com/p/R7wOJa--bobours",
+    "list": [
+        {
+            "name": "GasStation.jpg",
+            "url": "https://inkarnate-api-as-production.s3.amazonaws.com/dt2sjyf3zdhi7lky95vyexprkdv6?disposition=attach",
+            "data": "/main/scenes/bobours/gas-station1.json"
+        }
+    ]
+}
