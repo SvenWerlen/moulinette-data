@@ -7,7 +7,7 @@
     "list": [
         {
             "name": "GasStation.jpg",
-            "url": "https://inkarnate-api-as-production.s3.amazonaws.com/dt2sjyf3zdhi7lky95vyexprkdv6?disposition=attach",
+            "url": "https://inkarnate-api-as-production.s3.amazonaws.com/dt2sjyf3zdhi7lky95vyexprkdv6",
             "data": "/main/scenes/bobours/gas-station1.json"
         }
     ]
